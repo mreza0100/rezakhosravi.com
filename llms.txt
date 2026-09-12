@@ -1,6 +1,6 @@
 # Reza Khosravivala
 
-> Software engineer with a background in psychology, based in the Netherlands. Also written Reza Khosravi. This site holds his essays: a 21-part walk through Spinoza's Ethics, from the universe down to the emotions, plus pages on his work, background and contact.
+> Software engineer with a background in psychology, based in the Netherlands. This site holds his essays: a 21-part walk through Spinoza's Ethics, from the universe down to the emotions, plus pages on his work, background and contact.
 
 Every essay has a Markdown edition at its URL plus `index.md`. The whole series in one file: https://rezakhosravi.com/llms-full.txt. Feed: https://rezakhosravi.com/feed.xml. Author page: https://rezakhosravi.com/about/.
 
