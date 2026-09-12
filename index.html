@@ -3,28 +3,230 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Reza Khosravi</title>
-<meta name="description" content="Reza Khosravi — software engineer. Writing about mental-health care, clinical AI, and building software.">
+<title>Reza Khosravivala</title>
+<meta name="description" content="Software engineer with a background in psychology, building Intuita, an AI assistant for mental-health clinicians.">
+<meta name="author" content="Reza Khosravivala">
+<meta name="robots" content="index, follow, max-image-preview:large">
 <link rel="canonical" href="https://rezakhosravi.com/">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='50' fill='%231f6f6b'/><text x='50' y='67' font-size='52' text-anchor='middle' fill='white' font-family='system-ui'>R</text></svg>">
-<style>
-  :root { --bg:#fcfcfa; --fg:#1c1d1f; --muted:#5d6166; --accent:#1f6f6b; color-scheme:light; }
-  @media (prefers-color-scheme: dark) { :root { --bg:#141517; --fg:#e6e6e3; --muted:#9a9ea3; --accent:#6cc4bc; color-scheme:dark; } }
-  body { margin:0; padding-inline:1.25rem; background:var(--bg); color:var(--fg);
-         font:1.0625rem/1.65 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
-  main { max-width:36rem; margin-inline:auto; padding-block:18vh 4rem; }
-  h1 { font-size:2rem; letter-spacing:-.015em; margin:0 0 .5rem; }
-  p { margin:0 0 1rem; }
-  .muted { color:var(--muted); }
-  a { color:var(--accent); text-underline-offset:.18em; }
-</style>
+<link rel="preload" href="/fonts/archivo-700-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/newsreader-400-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/style.css">
+<link rel="alternate" type="application/rss+xml" title="Reza Khosravivala · Essays" href="/feed.xml">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Reza Khosravivala">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Reza Khosravivala">
+<meta property="og:description" content="Software engineer with a background in psychology, building Intuita, an AI assistant for mental-health clinicians.">
+<meta property="og:url" content="https://rezakhosravi.com/">
+<meta property="og:image" content="https://rezakhosravi.com/img/og/default.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Reza Khosravivala, software engineer, psychology, Spinoza">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Reza Khosravivala">
+<meta name="twitter:description" content="Software engineer with a background in psychology, building Intuita, an AI assistant for mental-health clinicians.">
+<meta name="twitter:image" content="https://rezakhosravi.com/img/og/default.png">
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Person",
+   "name": "Reza Khosravivala",
+   "url": "https://rezakhosravi.com/",
+   "image": "https://rezakhosravi.com/img/reza.jpg",
+   "jobTitle": "Software engineer; founder of Intuita",
+   "worksFor": {
+    "@type": "Organization",
+    "name": "Intuita",
+    "url": "https://intuita.health/"
+   },
+   "knowsAbout": [
+    "Site reliability engineering",
+    "Backend engineering",
+    "Clinical AI",
+    "Psychology",
+    "Interpersonal and relational patterns"
+   ],
+   "sameAs": [
+    "https://github.com/mreza0100",
+    "https://www.linkedin.com/in/reza-khosravivala/",
+    "https://medium.com/@mrez9090"
+   ],
+   "@id": "https://rezakhosravi.com/#person",
+   "alternateName": [
+    "Reza Khosravi"
+   ],
+   "description": "Software engineer with a background in psychology, building Intuita, an AI assistant for mental-health clinicians.",
+   "homeLocation": {
+    "@type": "Place",
+    "name": "Netherlands"
+   },
+   "mainEntityOfPage": "https://rezakhosravi.com/about/"
+  },
+  {
+   "@type": "WebSite",
+   "@id": "https://rezakhosravi.com/#website",
+   "url": "https://rezakhosravi.com/",
+   "name": "Reza Khosravivala",
+   "alternateName": "rezakhosravi.com",
+   "inLanguage": "en",
+   "author": {
+    "@id": "https://rezakhosravi.com/#person"
+   },
+   "publisher": {
+    "@id": "https://rezakhosravi.com/#person"
+   },
+   "description": "Personal site and essays of Reza Khosravivala: a walk through Spinoza's Ethics, plus work and background."
+  },
+  {
+   "@type": "WebPage",
+   "@id": "https://rezakhosravi.com/",
+   "url": "https://rezakhosravi.com/",
+   "name": "Reza Khosravivala",
+   "isPartOf": {
+    "@id": "https://rezakhosravi.com/#website"
+   },
+   "about": {
+    "@id": "https://rezakhosravi.com/#person"
+   },
+   "inLanguage": "en"
+  }
+ ]
+}
+</script>
 </head>
 <body>
+
+<header class="site-head">
+  <a class="site-name" href="/">Reza Khosravivala</a>
+  <nav class="site-nav" aria-label="Main">
+    <a href="/essays/">Essays</a>
+    <a href="/work/">Work</a>
+    <a href="/about/">About</a>
+    <a href="/contact/">Contact</a>
+  </nav>
+</header>
+
 <main>
-  <h1>Reza Khosravi</h1>
-  <p>Software engineer. I'll be writing here about mental-health care, clinical AI, and building software.</p>
-  <p class="muted">First essay soon.</p>
-  <p><a href="https://github.com/mreza0100">GitHub</a> · <a href="mailto:hello@rezakhosravi.com">hello@rezakhosravi.com</a></p>
+
+<section class="hero">
+  <h1 class="rise">I'm <em>Reza</em>.</h1>
+  <div class="hero-body">
+    <div>
+      <div class="hero-intro rise rise-2">
+        <p>I got my first computer at twelve and was hooked on what it could do as an extension of my own mind. By sixteen I had my first job: full-stack developer at a young startup, building travel and social-media platforms.</p>
+        <p>Somewhere in there I became curious about people: why we do what we do, and how the deterministic world of bits can sit so close to the unpredictable one of neurons. So, with my career already in hand, I went to study psychology, and spent the same years learning distributed systems by building private e-commerce platforms for the oil industry at the next startup. Two kinds of complexity, studied side by side.</p>
+        <p>In 2023 NN invited me to the Netherlands to work on payment gateways and core banking. Today I&rsquo;m a site reliability engineer at Booking.com, helping my team manage planet-scale traffic so no traveller ever gets lost.</p>
+        <p>Now I&rsquo;m merging my two worlds for one north star: bringing every therapist and counsellor state-of-the-art technology, so they can give each of their clients the care they deserve, with the least effort.</p>
+      </div>
+      <div class="actions rise rise-3">
+        <a class="btn" href="/essays/spinoza-and-ethics/">Start the essays <span aria-hidden="true">→</span></a>
+        <a class="btn btn-ghost" href="/work/">What I'm building</a>
+      </div>
+    </div>
+    <figure class="portrait rise rise-2">
+      <img src="/img/reza.jpg" alt="Portrait of Reza Khosravivala" width="480" height="480">
+    </figure>
+  </div>
+</section>
+
+<section class="band" aria-label="Work">
+  <div class="band-head">
+    <h2>Work</h2>
+    <a href="/work/">Full history <span aria-hidden="true">&rarr;</span></a>
+  </div>
+  <ol class="cv">
+    <!-- GATE: keep the "Founder" role off the published site until the Booking.com side-activity
+         disclosure is approved (contract Art. 8/11). Until then, drop this first row. -->
+    <li>
+      <img class="cv-logo" src="/img/logos/intuita.png" alt="" width="48" height="48">
+      <span class="cv-when">2026 to now</span>
+      <span class="cv-what"><a href="https://intuita.health/">Intuita</a></span>
+      <span class="cv-role">Founder</span>
+      <p>An AI assistant for mental-health clinicians, built with the clinicians who will use it. Preparing a pilot with Dutch GGZ practices.</p>
+    </li>
+    <li>
+      <img class="cv-logo cv-logo-full" src="/img/logos/booking.svg" alt="" width="48" height="48">
+      <span class="cv-when">2026 to now</span>
+      <span class="cv-what">Booking.com</span>
+      <span class="cv-role">Site Reliability Engineer</span>
+      <p>Global traffic distribution, keeping the systems that route the world&rsquo;s bookings reliable.</p>
+    </li>
+    <li>
+      <img class="cv-logo" src="/img/logos/nn-group.svg" alt="" width="48" height="48">
+      <span class="cv-when">2023 to 2026</span>
+      <span class="cv-what">NN Group</span>
+      <span class="cv-role">Back-end developer</span>
+      <p>Sub-second fraud detection in the payments flow, a compliance service for De Nederlandsche Bank.</p>
+    </li>
+    <li>
+      <span class="cv-logo cv-mono" aria-hidden="true">Es</span>
+      <span class="cv-when">2022 to 2023</span>
+      <span class="cv-what">Espad Pouyesh Mandegar</span>
+      <span class="cv-role">Back-end developer</span>
+      <p>Building and maintaining large distributed systems.</p>
+    </li>
+    <li>
+      <span class="cv-logo cv-mono" aria-hidden="true">Pr</span>
+      <span class="cv-when">2019 to 2021</span>
+      <span class="cv-what">Profile</span>
+      <span class="cv-role">Full-stack developer</span>
+      <p>Built a multi-domain tourism platform in Tehran from scratch: one back end serving three front ends.</p>
+    </li>
+  </ol>
+</section>
+
+<section class="home-section">
+  <div class="section-head">
+    <h2>Essays</h2>
+    <a href="/essays/">All essays <span aria-hidden="true">→</span></a>
+  </div>
+  <!-- Series start; keep 2 to 4 here. The full list lives on /essays/. -->
+  <ul class="entries">
+    <li>
+      <a href="/essays/spinoza-and-ethics/">
+        <span class="title">1.0 Spinoza and Ethics</span>
+        <time datetime="2024-05-15">15 May 2024</time>
+      </a>
+    </li>
+    <li>
+      <a href="/essays/universe/">
+        <span class="title">1.1 Universe</span>
+        <time datetime="2024-05-22">22 May 2024</time>
+      </a>
+    </li>
+    <li>
+      <a href="/essays/building-blocks/">
+        <span class="title">1.2 Building Blocks</span>
+        <time datetime="2024-05-17">17 May 2024</time>
+      </a>
+    </li>
+  </ul>
+</section>
+
+<section class="home-section">
+  <div class="section-head">
+    <h2>Elsewhere</h2>
+  </div>
+  <p><a href="https://intuita.health/">Intuita</a> · <a href="https://github.com/mreza0100">GitHub</a> · <a href="https://www.linkedin.com/in/reza-khosravivala/">LinkedIn</a> · <a href="https://medium.com/@mrez9090">Medium</a> · <a href="mailto:reza@intuita.health">reza@intuita.health</a></p>
+  <p class="muted small">Last updated <time datetime="2026-09-12">12 September 2026</time>.</p>
+</section>
+
 </main>
+
+<footer class="site-foot">
+  <div class="foot-links">
+    <a href="/contact/">Contact</a>
+    <a href="/feed.xml">RSS</a>
+    <a href="/disclosures/">Disclosures</a>
+    <a href="/privacy/">Privacy</a>
+  </div>
+  <p>Nothing here is medical advice. In crisis in the Netherlands, call 113 (or 0800-0113, free); in an emergency, 112.</p>
+</footer>
+
 </body>
 </html>
