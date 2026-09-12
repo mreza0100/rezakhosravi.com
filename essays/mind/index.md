@@ -2,7 +2,7 @@
 
 Spinoza's Ethics 2.1 · essay 10 of 21 · by Reza Khosravivala · published 2024-05-22 · updated 2026-09-12
 Canonical: https://rezakhosravi.com/essays/mind/  (this Markdown edition: https://rezakhosravi.com/essays/mind/index.md)
-Summary: Spinoza's view on the mind, idea, memory as a substance
+Summary: Spinoza's view on the mind, idea, and memory as modes of thought
 Topics: Spinoza, Ethics, Mind, Idea, Feelings, Emotions, Memory, Substance, Parallelism, Causality, Chaos Theory
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io); GitHub (https://gist.github.com/mreza0100/f05a15c0a7d30336bc6d955d8ecea900)
 Previous: 2.0 Life or Living Beings (https://rezakhosravi.com/essays/life/index.md)
@@ -67,23 +67,23 @@ But if you crave to know how your mind works,
 Understanding how emotions, imaginations, knowledge, errors, ideas, free will and memory all fit together and what are the differences and what are their origin.
 We also assert each kind of knowledge to find the way to free will and true freedom to see how it's related to understanding.
 
-### Idea as mode of mind
+### Idea as a mode of thought
 
 We know all attributes have mode.
-The mode of substance is a certain material form, our body or door for example.
-And the mode of mind is an idea, which itself causes another idea.
+A mode of substance under extension is a certain material form, our body or a door for example.
+A mode under thought is an idea, which itself causes another idea.
 
 ### Causality in mind
 
 There are 2 topics that confirm causality in brain
 
-1. Mind is material
-  - Since mind is inside physical world, and we know everything in the nature has radical order, and mind is not contingent to this rule, but it's conditioned.
+1. Mind is in nature, not outside it
+  - Mind is a mode of thought, and modes of thought follow the same necessity as everything else in nature. We know everything in the nature has radical order, and mind is not contingent to this rule, but it's conditioned.
 2. Internal cause and effect
   - An idea is the cause of another idea
   - Also from the science of psychology we know that specific unpredictable causes constitute our personality, which we will talk later on.
 
-## Mind as Substance/Matter
+## Mind as a mode of nature
 
 ![A lone seated figure beneath a vast glowing net of nodes whose threads fall to the ground](https://rezakhosravi.com/img/essays/mind/02.webp)
 
@@ -91,15 +91,15 @@ There are 2 topics that confirm causality in brain
 
 - Nature cannot be conceived through anything else, so it must be conceived through itself.
 - Mind can be conceived through nature, so it must be conceived through nature.
-     - But mind conceives nature because it's part of it as a substance/matter.
+     - But mind conceives nature because it's a part of nature, a mode of God under the attribute of thought.
 
-Mind is not a ghost riding the body. Mind is substance in nature: matter thinking itself. Spinoza places thought alongside extension as an attribute of God, meaning: the universe does not merely contain thinking things. The universe *is* a thinking thing.
+Mind is not a ghost riding the body. Mind is nature thinking: the same reality that is extended, conceived under thought instead. Spinoza places thought alongside extension as an attribute of God, meaning: nature does not merely contain thinking things. Nature *is* a thinking thing.
 
 > [2P1](https://ethica.bc.edu/#/element/2P1): Thought is an attribute of God, or God is a thinking thing.
 
-- Because our thoughts come from body(brain/head), and our body is in nature, and nature is God, so our thoughts are from God.
-- This does not indicate that God is a thinking thing, but God is a substance that has thought as an attribute, and because our thoughts are inside God, then God is a thinking thing.
-     - God does not think, but God is a thinking thing, because God is a substance that has thought as an attribute, so nature has the characteristic of mind.
+- Our thoughts are modes of thought in nature, and nature is God, so our thoughts are in God. They run parallel to the body, they do not come out of it.
+- God is a thinking thing, and that is just what it means for thought to be one of God's attributes.
+     - It does not mean God deliberates the way a person does. It means nature has the characteristic of thought.
 
 This does not mean God sits somewhere deliberating. It means nature has the characteristic of thought the same way it has the characteristic of physical extension. Your thoughts exist inside nature. They follow from it. They are it.
 
@@ -278,7 +278,7 @@ Having read or heard certain words we remember things and form certain ideas con
 
 ### 2. Knowledge of the second kind
 
-Also called as empirical knowledge which you are sure because of past experiments.
+Also called rational thinking: notions common to all, which you can see must hold, not because you tested them, but because they follow.
 
 > Notions common to all men, and adequate ideas of the properties of things
 

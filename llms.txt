@@ -15,7 +15,7 @@ Every essay has a Markdown edition at its URL plus `index.md`. The whole series 
 - [1.6 (perfection or reality) or (God’s perfect graphic)](https://rezakhosravi.com/essays/perfection/index.md): Spinoza view on perfection and reality and how they are synonymous
 - [1.7 Miracles](https://rezakhosravi.com/essays/miracles/index.md): Spinoza's view on the miracles and the impossibility of breaking the laws of nature
 - [2.0 Life or Living Beings](https://rezakhosravi.com/essays/life/index.md): Spinoza's view on the life and living beings and how they are part of nature
-- [2.1 Mind](https://rezakhosravi.com/essays/mind/index.md): Spinoza's view on the mind, idea, memory as a substance
+- [2.1 Mind](https://rezakhosravi.com/essays/mind/index.md): Spinoza's view on the mind, idea, and memory as modes of thought
 - [2.2 Body](https://rezakhosravi.com/essays/body/index.md): Spinoza's view on the body and how it is a mode of substance
 - [2.3 Ideas](https://rezakhosravi.com/essays/ideas/index.md): What an idea is for Spinoza: an act of the mind rather than a picture in the head, and how adequate ideas differ from inadequate ones.
 - [2.4 Kinds of knowledge, reflection, mind-reality gap](https://rezakhosravi.com/essays/kinds-of-knowledge/index.md): Categorizing about all the knowledge we know therefore being able to check the validity

@@ -31,18 +31,17 @@ They do not have the same meaning as in English, they are defined by him in his 
 
 > [1P3](https://ethica.bc.edu/#/element/1P5) By substance, I mean that which is in itself, and is conceived through itself: in other words, that of which a conception can be formed independently of any other conception.
 
-- Substance is the abstraction of matter.
-- It's the fundamental building block of the universe.
-- You can call anything that exists in the nature a substance.
-- The nature itself is one unified substance.
+- Substance is what stands on its own and is understood through itself alone.
+- It's not a material and not an ingredient, nothing is built out of it.
+- You can't call anything that exists in the nature a substance, there is only one substance.
+- The nature itself is that one substance.
 
 All the nature, is the same substance as one.
-Some examples of substance:
+The only example of substance:
 
-- Chair
-- Your physical body
-- Mind (because it's in the nature(physical world)) (we will get to this later in the life section)
 - Nature or God itself
+
+A chair, your physical body, and your mind are not substances, they are modes of that one substance, ways the nature is (we will get to the mind later in the life section).
 
 > [1P6](https://ethica.bc.edu/#/element/1P7) By God(Nature), I mean a being absolutely infinite, that is, a substance consisting in infinite attributes, of which each expresses eternal and infinite essentiality.
 
@@ -54,7 +53,7 @@ Some examples of substance:
 Essentiality refers to the core nature of something, its fundamental properties that define its existence. In the context of Spinoza’s philosophy:
 
 Essentiality and Causality: Essentiality is intrinsically linked to cause and effect. Spinoza believed that the essence of a thing includes the necessity of its existence and the actions that follow from it. The nature of something dictates how it interacts with and effects other things. It's related to the concept of causality, where the essence of a thing determines its effects on other things.
-For example 2 substance which react differently to the same cause, because of their essence:
+For example 2 things which react differently to the same cause, because of their essence. Both of them are modes of the one substance, what differs is their essence as modes:
 
 - Iron: When exposed to fire, iron heats up and eventually melts but maintains its structure longer due to its high melting point.
 - Wood: When exposed to fire, wood combusts and burns quickly due to its lower ignition temperature and organic composition.
@@ -92,7 +91,7 @@ Think of mode as the state of substance, in which exposes the attribute of the s
 > [1D5](https://ethica.bc.edu/#/element/1P5) By mode, I mean the affections of a substance, or that which is in another through which it is also conceived.
 
 - What the hell is affection of a substance?
-- We know that substance is the fundamental building block of the universe.
+- We know that substance is what is in itself and is understood through itself, and there is only one of it.
 - We know substance has a core/underlying nature called essence.
 - This essence is the reason for the existence of the substance, and also the cause of the effects of the substance.
 - Essence for a substance is the reason of it's existence, and the cause of the effects on it.
@@ -100,20 +99,20 @@ Think of mode as the state of substance, in which exposes the attribute of the s
 #### Mode of extension:
 
 Chair for example:
-Chair is the state of infinite substances that shaped in a way that we can sit on it.
+Chair is a state of the one substance, shaped in a way that we can sit on it.
 Chair is a mode/state of substance, which is exposing the attribute of extension.
 
 #### Mode of mind:
 
-The mode/state of your mind, is an idea, it's possible because your mind is part of the nature, so it's a substance, and it has an attribute called thought, and the mode/state of your mind is an idea.
+The mode/state of your mind, is an idea, it's possible because your mind is a mode of the nature under the attribute called thought, and the mode/state of your mind is an idea.
 
 > [1P14](https://ethica.bc.edu/#/element/1P14) Except God, no substance can be or be conceived.
 
-Substance is one unified field (aka nature), every substance is a part of the nature, which is part of God.
+There is one substance (aka nature), which is God itself, and everything else is a mode of it, it has no parts.
 
-It's not possible to think of substance that is not part of the nature or being the nature, so everything is part of God.
+It's not possible to think of a substance other than the nature itself, so everything else is in God as a mode of it.
 
-When we say substance, there is no difference than the chair and your physical body, they are both substance, they are both part of the nature, they are both part of God, but they change shape/form/state, but yet still part of the nature.
+There is no difference in kind between the chair and your physical body, they are both modes of the one nature, they are both in God, they change shape/form/state, but yet still the same nature.
 
 ## The Map of Reality
 
@@ -131,20 +130,19 @@ Now we will use these building blocks to create a map of reality so we see how i
 
 This map is a simplified version of the reality map, but it gives you a good idea of how the building blocks fit together.
 
-Let's not get into what are the rest of the infinite attributes of God/Nature, some criticize Spinoza for not defining them and say that he failed to prove his theory because of that, but later on I will talk about another attribute of God/Nature that is not defined by Spinoza, nether existed in his time, but it's man made and it's called Computer!
+Let's not get into what are the rest of the infinite attributes of God/Nature, some criticize Spinoza for not defining them and say that he failed to prove his theory because of that, but later on I will talk about something that didn't exist in his time and it's man made, the Computer! It's not a new attribute, the attributes are infinite and nobody can make one, it's a mode where the parallel between extension and thought is unusually easy to see.
 
 ## Conclusion
 
 We have 3 redefined words that are the building blocks of the universe:
 
-- Substance: the fundamental building block of the universe.
-     - Most basic form of matter.
-     - Everything that exists in the universe is a substance.
-     - Nature itself is a substance.
-     - So substance itself is part of the nature, and nature itself is a substance.
-- Attributes: the core nature of the substance.
-     - The nature of mind is thought, which is a attribute of the substance mind.
+- Substance: what is in itself and is understood through itself.
+     - There is exactly one of it, the nature, or God.
+     - It's indivisible, and it's not a material of any kind.
+     - Everything else that exists in the universe is a mode of it.
+- Attributes: what makes up the essence of the one substance.
+     - The nature of mind is thought, which is one of the attributes of that one substance.
      - Attributes are infinite because God/Nature is infinite.
 - Modes: the state of the substance, in which exposes the attribute of the substance.
-     - The state of the chair is a mode of the substance chair, which exposes the attribute of extension.
-     - The state of your mind is an idea, which is a mode of the substance mind, which exposes the attribute of thought.
+     - The chair is a mode of the one substance, which exposes the attribute of extension.
+     - The state of your mind is an idea, which is a mode of the one substance, which exposes the attribute of thought.

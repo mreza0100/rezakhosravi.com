@@ -27,7 +27,7 @@ In the world described in the previous articles, where everything follows from n
 To make a miracle happen, you need to break one of these:
 
 - **The laws of Nature:** Like when Arthur in Hitchhiker’s Guide to the Galaxy flies by throwing himself to the ground and missing. In our world, gravity does not work like that.
-- **Creation Ex Nihilo:** Making something from nothing. Substance transforms between states; it is not created or destroyed. A bag appearing from nothing is not possible in our world.
+- **Creation Ex Nihilo:** Making something from nothing. Nothing can exist or be conceived outside God or Nature, see *[E1p15](https://ethica.bc.edu/#/element/1P15)*, so nothing arrives from outside. A new thing is always a new mode of what already is, and a bag appearing from nothing is not possible in our world.
 
 We have never seen any effect without a cause.
 
@@ -68,15 +68,15 @@ The result of the next moment follows from the previous moment, and so on. The s
 
 You can predict the 1000th moment because the sequence is chained to preceding nodes. Now consider what a miracle would mean: breaking a link, making node 500 produce something different from what its causes determined. This is impossible because each node is the necessary result of the one before it. Considering a miracle's backward traversal of causes and effects, it's impossible to break the chain because it is fixed and the future is a result of the past, logically speaking.
 
-As we discussed in the causality posts, to change any event in the world you need to trace back the causes to the Big Bang itself. The laws of nature have been constant since that time. Nothing can be changed.
+As we discussed in the causality posts, to change any event in the world you would have to change the whole order that follows from God's nature, and that chain of causes goes back without end. That order is eternal, it is not something that switched on at a moment in time. Nothing can be changed.
 
 ### Hume on miracles
 
-David Hume argued that the evidence for the laws of nature is so strong that breaking them is impossible, and the evidence for miracles is so weak that believing in them is impossible.
+David Hume argued that we should proportion our belief to the evidence. His question was whether any testimony could ever be good enough to justify believing that a law of nature was broken, when the evidence for the law is everything anyone has ever observed and the evidence for the miracle is somebody's report of it.
 
-This relates to how you invalidate a proposition: counterexamples. The strong evidence for natural laws makes them unbreakable. The weak evidence for miracles makes them unbelievable.
+Notice what kind of question that is. It is about what we are entitled to believe, not about what can happen. Hume does not show that a miracle is impossible, and readers still argue about how much his argument actually proves.
 
-We can see how Hume and Spinoza arrive at the same conclusion from different directions. Spinoza says miracles are logically impossible: everything follows from the necessity of the divine nature. Hume says the evidence against miracles is always stronger. Both say the same thing: the laws of nature cannot be broken.
+Spinoza's argument is a different one. He says nothing happens outside the necessity of the divine nature, see *[E1p29](https://ethica.bc.edu/#/element/1P29)*, so there is nothing for the testimony to be about in the first place. Hume comes at it from the evidence, Spinoza from what God is. They end up equally sceptical about miracles, but the two arguments are not the same argument and neither one stands in for the other.
 
 [more to read](https://en.wikipedia.org/wiki/Of_Miracles)
 

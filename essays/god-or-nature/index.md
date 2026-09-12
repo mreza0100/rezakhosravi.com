@@ -8,7 +8,7 @@ Originally on: Medium (https://medium.com/@mrez9090/spinoza-ethics-1-0-god-or-na
 Previous: 1.2 Building Blocks (https://rezakhosravi.com/essays/building-blocks/index.md)
 Next: 1.4 Causality (https://rezakhosravi.com/essays/causality/index.md)
 
-In this post as the first one of this series, I want to explore Spinoza’s concept of **God or Nature**. Spinoza’s God is not the traditional personal deity who stands apart from creation, but rather the **entirety of existence** itself, what Spinoza calls **substance**. I will discuss what this means, how this substance expresses itself through **attributes**, how the universe operates through the laws of **causality**, and finally, how all this fits within our understanding of the **Big Bang** and **infinity**.
+In this post as the first one of this series, I want to explore Spinoza’s concept of **God or Nature**. Spinoza’s God is not the traditional personal deity who stands apart from creation, but rather the **entirety of existence** itself, what Spinoza calls **substance**. I will discuss what this means, how this substance expresses itself through **attributes**, how the universe operates through the laws of **causality**, and finally, how all this fits within our understanding of **causes** and **infinity**.
 
 ![Painting of a huge bearded stone face over a forest, with planets, a rainbow, animals and a stream](https://rezakhosravi.com/img/essays/god-or-nature/01.webp)
 
@@ -61,15 +61,15 @@ It's interesting, when you think about it, it seems like he knew about the Darwi
 
 To see how this works, we need 3 words that Spinoza uses precisely: substance, mode, and attribute.
 
-Substance in the system has been associated with 3 elements to indicate they are one and the same thing, those 3 are:
+Substance in the system is one single thing seen in 3 ways, to indicate they are one and the same thing, those 3 are:
 
-- Nature or infinitely extended thing (space)
-- All extended things or mass (everything inside space)
-- Mind (another thing inside space)
+- Nature itself
+- Nature under extension, which is what all bodies are modes of
+- Nature under thought, which is what all minds are modes of
 
-Later on in causality, we see how he assigns universal laws to all substances to make conclusions with them…
+Later on in causality, we see how the same universal laws run through all of nature to make conclusions with them…
 
-The substance is the thing that all these molecules are modes of, the one and the same thing that changes from one form to another, and the space they exist inside.
+The substance is the thing that all these molecules are modes of, the one and the same thing that changes from one form to another.
 
 ## (Mode or state) and transformation
 
@@ -108,9 +108,9 @@ Back to God:
 
 > [>[1P14]](https://ethica.bc.edu/#/element/1P14) Besides God, no substance can be granted or conceived. God is one and the same with Nature.
 
-No nature or substance = no time-space = no reality. Therefore, no mass is contained in no space
+No nature or substance = no reality, because there would be nothing for anything to be in.
 
-nature or substance -> time-space = reality. Therefore mass can exist and be conceived inside space.
+nature or substance -> reality. Therefore everything else can exist and be conceived, as a way that substance is, not as something sitting inside a box.
 
 So, where do we stand in relation to God? **We are not separate from God but are finite expressions (modes) of the infinite substance that is God or Nature**. Our minds and bodies are simply temporary modes through which God’s eternal attributes of thought and extension are expressed. The more we understand how everything, including our own lives, follows from the laws of God or Nature, the more we align with the universe’s necessary order. In this sense, **we achieve freedom not by escaping the laws of nature but by fully embracing and understanding them.**
 
@@ -132,18 +132,18 @@ But before and after, we all been part of nature, just like the door.
 - Modifications or mode: We can think of it as the state of being. The state or mode of mind is idea, the state or mode in physical is substance which is part of the nature and it changes shape and form, but it's still part of the nature.
 - Fixed and definite manner: means that you are part of the nature, but in a specific way, which is unique to you, and all the other things in the nature also have their own unique way of being part of the nature.
 
-## God = Nature = Universe = Reality = Everything = Door = You
+## God = Nature = Universe = Reality, and the door and you are in it
 
 For Spinoza, God was the nature itself, as one unified field, which is called substance.
 We are part of the Nature, so we are part of God.
-But, for Spinoza, you and the door are both substance, because you are part of the nature, and the door is also part of the nature, so you and the door are part of the same thing, which he calls God.
+But, for Spinoza, you and the door are both modes of the one substance, because you are part of the nature, and the door is also part of the nature, so you and the door are part of the same thing, which he calls God.
 So, don't think that you are God; you are part of God just as much as the door is.
 
 > [2P10](https://ethica.bc.edu/#/element/2P10) The being of substance does not appertain to the essence of man, in other words, substance does not constitute the actual being of man.
 
 ## Difference between You, the door, and the God
 
-There is no difference at all, each are substance with different modes.
+There is no difference in kind between you and the door, both are modes of the one substance, and God is what they are modes of.
 The first 2 are part of the nature, and the last one is the nature itself.
 I say door because I have seen people who think all of us are God by Spinoza's definition, but it's not the case, we are part of the nature as much as everything else as one united field, which he calls God.
 I strongly don't think if Spinoza meant that we are God, we are part of nature, as much as everything else.
@@ -170,7 +170,7 @@ In many sentences in your day to day life, you can easily change the word "God" 
 > [1P6](https://ethica.bc.edu/#/element/1D6) By God, I mean a being absolutely infinite, that is, a substance consisting in infinite attributes, of which each expresses eternal and infinite essentiality.
 
 - Being absolutely infinite: Not limited by anything, it's infinite.
-- Substance: It's the nature itself, which is the building block of everything.
+- Substance: It's the nature itself, not what everything is built from, but what everything is a state of.
 - Attributes: It's the characteristics of the substance, which is the nature itself.
 - Eternal and infinite essentiality: Refers to essence of nature, its self cause, it's essential for it be eternal and infinite. it's infinitely essential to be eternal and infinite.
 
@@ -260,13 +260,13 @@ In short words:
 
 - Every single event no matter what has causes that made it happen
 - The causes of that effect had their own causes which made them happen
-- The causes of those causes had their own causes, so on to the beginning of time
+- The causes of those causes had their own causes, and so on with no first one
 
 ![Circles branching out from one marked the beginning of God into chains of later circles along a time arrow](https://rezakhosravi.com/img/essays/god-or-nature/04.png)
 
 > > [[1P28]](https://ethica.bc.edu/#/element/1P28): Every individual thing, or everything which is finite and has a conditioned existence, cannot exist or be conditioned to act, unless it be conditioned for existence and action by a cause other than itself, which also is finite, and has a conditioned existence; and likewise this cause cannot in its turn exist, or be conditioned to act, unless it be conditioned for existence and action by another cause, which also is finite, and has a conditioned existence, and so on to infinity.
 
-Now with that said, let's change an event. To change an event you need to change the causes that made it happen, for changing those causes we need to change the causes of the effective cause, which goes back to the beginning of time, when the Big Bang happened. Therefore, to change anything, we need to change the Big Bang, which isn’t possible since the laws of nature stayed the same since that time.
+Now with that said, let's change an event. To change an event you need to change the causes that made it happen, for changing those causes we need to change the causes of the effective cause, and so on back without end, the proposition above says this chain goes to infinity. Therefore, to change anything, we need to change everything that caused it, which isn’t possible, because every link follows necessarily from what nature is.
 
 No matter if our event is in the past or future, it cannot be changed because of this matter.
 
@@ -274,7 +274,7 @@ No matter if our event is in the past or future, it cannot be changed because of
 
 ## The beauty of Spinoza’s God and how it possesses itself
 
-So far we understand that God is the extended thing (space), absolutely infinite, which applies its natural laws to everything in nature with no exception. Later on, we will discuss more of the **perfection of God** and how the **intellectual love of God** works.
+So far we understand that God is the nature itself, absolutely infinite, and it doesn't apply its natural laws to nature from outside, everything follows from what it is, with no exception. Later on, we will discuss more of the **perfection of God** and how the **intellectual love of God** works.
 
 - It shows its beauty in the infinite accuracy of its divine nature.
 - Its infinite perfection means it does not require any expectation or practices to do, except **thinking**, which we do for ourselves and not God.

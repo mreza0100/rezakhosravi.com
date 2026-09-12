@@ -29,11 +29,11 @@ For example the point that bullet end up in the space within the game if we say 
 
 ### Everything from the falling of an apple to the movement of planets
 
-In any event, from the fall of any object to the movements of your bicycle and planets, God is executing all with infinite accuracy and it makes no exception among its creations. Of course, each area of science has its own laws, what we know by study and experiment, is that those laws are all infinitely deterministic, with no gap for possibility.
+In any event, from the fall of any object to the movements of your bicycle and planets, God is executing all with infinite accuracy and it makes no exception among its creations. Of course, each area of science has its own laws. But Spinoza does not get this from experiment. He gets it from the nature of God: if everything follows from a nature that could not be otherwise, nothing is left over to be merely possible ([1P29](https://ethica.bc.edu/#/element/1P29), [1P33](https://ethica.bc.edu/#/element/1P33)). Whether reality is deterministic at its base is still an open question in the foundations of physics, and Spinoza's claim does not rest on the answer.
 
 ### Flexibility of laws of nature
 
-This is the point of Spinoza’s philosophy that science couldn’t disprove.
+This is not the kind of claim science tests. It follows from what God is, not from what we measure.
 
 The infinite accuracy of these laws makes them infinitely inflexible.
 
@@ -47,7 +47,7 @@ Here Jung is talking about the efficiency and reality of **active imagination (h
 
 Necessity of cause and effect is the way that Spinoza proved his concept.
 
-Any event/effect in the world has a cause, otherwise, the effect cannot follow from nothing. The event always follows from its cause or causes. Now with that said, if we consider any event in the world, it has causes which made that event happen, those causes had their own causes, which made them happen, and so on to the Big Bang. So we reach a strict chain of action and reaction and the only way to change something in it is to change the initial conditions (the Big Bang).
+Any event/effect in the world has a cause, otherwise, the effect cannot follow from nothing. The event always follows from its cause or causes. Now with that said, if we consider any event in the world, it has causes which made that event happen, those causes had their own causes, which made them happen, and so on back without end. The chain never bottoms out in a first event. So we reach a strict chain of action and reaction, and the only way to change something in it is to change everything that caused it, back further than anyone can trace.
 
 ![Diagram branching from a circle marked the beginning of God through nodes A, B and C along a time arrow](https://rezakhosravi.com/img/essays/necessity/02.png)
 

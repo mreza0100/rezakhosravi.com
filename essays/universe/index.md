@@ -56,7 +56,7 @@ What sits between this specific cause and the effect is the laws of physics or n
 
 > [1A3](https://ethica.bc.edu/#/element/1A3): From a given definite cause an effect necessarily follows; and, on the other hand, if no definite cause be granted, it is impossible that an effect can follow.
 
-- Definite cause: a cause that is known and can be predicted (we will talk about what prediction means).
+- Definite cause: a cause that is fixed and determinate, it produces this effect and no other (we will talk about what prediction means).
 - Effect: the result of the cause. (the ball lands in the basket)
      - For example: if we exactly throw the ball at the right direction, speed and angle, then the ball has no choice but to land in the basket.
 - Last parts argues that it's not possible to have an effect without a cause, effect can't happen without a cause. he argues that what ever happens in the universe has a cause, otherwise it can't happen.
@@ -167,14 +167,14 @@ Consider the event of discovering the continent of America by Columbus:
            - Because the struggle for existence and improvement is a fundamental characteristic of life.
            - Read more about the struggle for existence and perfection under "Life" if I wrote about it yet.
 
-12. **..Finally Big Bang (The Beginning of Time and Space)**:
+12. **..and so on, past the Big Bang, with no first cause to stop at**:
       - **Why did the Big Bang happen?**
-           - Because of the necessary causes that made it happen.
+           - Because of the necessary causes that made it happen, and those causes had their own causes, back without end.
 
 So we can see the chain of cause and effect, now let's change it.
 To change this process of causes and effects of this event, we need to change one of the causes in the chain, and the effect will change.
 But it's not that simple, because every cause that leads to effect, has causes that made it happen, and so on.
-So to change any cause that happens in the universe, we need to go back to Big bang and change the first cause that made the universe happen with the rules we want, and then the effect will change.
+So to change any cause that happens in the universe, we would need to go back through every cause that made it happen, and there is no first cause to stop at, so the whole chain would have to be different for the effect to change.
 So we see that everything is connected, and everything has a cause, and everything has an effect.
 
 ## Conclusion

@@ -18,7 +18,7 @@ Next: 2.3 Ideas (https://rezakhosravi.com/essays/ideas/index.md)
 
 ## What is body
 
-So far we talked that everything is substance, such as door and your body.
+So far we talked that everything is in the one substance. A door and your body are modes of it, not substances of their own.
 
 Now we talk about body as the mode of substance.
 

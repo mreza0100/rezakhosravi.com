@@ -17,9 +17,9 @@ Next: 2.1 Mind (https://rezakhosravi.com/essays/mind/index.md)
 
 ## Life
 
-So far we talked that everything is substance.
-And substance is conditioned by nature to act in a certain way.
-We also talked in the [Building Blocks](https://rezakhosravi.com/essays/building-blocks/) that everything is made of the same substance which is nature, our body and mind are also substance.
+So far we talked that everything is a mode of one substance, which is God or Nature.
+Substance acts from its own nature alone. It is the finite things, the modes, that are conditioned by causes outside themselves to act in a certain way, see [1P28](https://ethica.bc.edu/#/element/1P28).
+We also talked in the [Building Blocks](https://rezakhosravi.com/essays/building-blocks/) that our body and our mind are not two substances, and not little pieces of a big one, they are the same mode of nature seen under Extension and under Thought, see [2P7](https://ethica.bc.edu/#/element/2P7).
 
 ### How did life start and evolve?
 
@@ -65,7 +65,7 @@ Will is not a free cause, but a necessary cause. It's necessary for us to have a
 
 > [2P31Coroll.1](https://ethica.bc.edu/#/element/2P31Coroll1): Hence it follows, first, that God does not act according to freedom of the will.
 
-God(substance = all living beings = you) does not act according to freedom of the will, but by necessity.
+God, the one substance, of which you and every living being are modes, does not act according to freedom of the will, but by necessity.
 
 ### What kind of things we call living beings?
 

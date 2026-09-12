@@ -36,9 +36,9 @@ If now we consider 2 points in reality, we can find infinite possible places bet
 
 Things have all been specified in finite boundaries, everything in nature, no matter how big, is not absolutely infinite. Things are just **extended things** inside space.
 
-Now if we consider ourselves as extended things with definite shape living in this reality, you would realize we are finite as bodies, also everything else as matter. From our body to the biggest galaxies are all in this extended substance (space) which is also called reality. That's why reality is perfect, because it contains all the space, as to say, it contains all the numbers.
+Now if we consider ourselves as extended things with definite shape living in this reality, you would realize we are finite as bodies, also everything else as matter. From our body to the biggest galaxies, all of these are modes of the one substance conceived as extended, see [1D5](https://ethica.bc.edu/#/element/1D5) and [2D1](https://ethica.bc.edu/#/element/2D1), not things sitting inside a box called space. That's why reality is perfect, because it leaves nothing out, as to say, it contains all the numbers.
 
-Hence it follows that the one and only **absolutely infinite** is **space**, which **extends infinitely** from all sides.
+Hence it follows that the one and only **absolutely infinite** thing is **substance**, God or Nature, which has infinitely many attributes, and Extension is the one we can picture, see [1D6](https://ethica.bc.edu/#/element/1D6) and [2P2](https://ethica.bc.edu/#/element/2P2).
 
 Now let's connect some dots
 
@@ -52,7 +52,7 @@ While we, as finite beings, perceive only a portion of this infinity, it does no
 
 > [**> Ethics 1P8:**](https://ethica.bc.edu/#/element/1P8) **Every substance is necessarily infinite.**
 
-We can see now how the word substance is reserved for all extended things, no matter whether absolutely infinite or just infinite, one inside another, each is infinite substance.
+This does not give us many infinite substances, one inside another. It is one of the steps to [1P14](https://ethica.bc.edu/#/element/1P14): there is only one substance, and everything extended is a mode of it.
 
 > [**>**](https://ethica.bc.edu/#/element/2D6) [**Ethics**](https://ethica.bc.edu/#/element/1P8)[**2D6:**](https://ethica.bc.edu/#/element/2D6)Reality and perfection I use as synonymous terms.
 
@@ -72,4 +72,4 @@ These concepts are relative or opinion-based, the only **non-opinion-based** gro
 
 ### Add on
 
-Now these days based on modern physics we know that space is not infinite, but finite. Spinoza didn't know this in that time and he based it on being infinite. There are so little discoveries we had to be the contrary of what he said, and this matter also different but still yet doesn't invalidate anything else of the system. It's just good for us to know space is container of reality that we exist in it, it's hugely big extended thing that we as finite things conceive under it.
+Modern observations indicate that the observable universe is finite in extent and that large-scale spatial geometry is very close to flat; whether the entire universe is spatially finite or infinite remains unknown. Either way, this does not touch what Spinoza says. His infinite is not a measurement of how far space reaches, it is a claim of reason about substance, that substance is limited by nothing of the same kind, see [1D2](https://ethica.bc.edu/#/element/1D2) and [1D6](https://ethica.bc.edu/#/element/1D6). So the observation neither confirms nor refutes it, and it doesn't invalidate anything else of the system.
