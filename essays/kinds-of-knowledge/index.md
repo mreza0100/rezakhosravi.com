@@ -1,18 +1,18 @@
 # Kinds of knowledge, reflection, mind-reality gap
 
 Spinoza's Ethics 2.4 · essay 13 of 21 · by Reza Khosravivala · published 2024-07-17 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/kinds-of-knowledge/  (this Markdown edition: https://rezakhosravi.com/essays/kinds-of-knowledge/index.md)
+Canonical: https://rezakhosravivala.com/essays/kinds-of-knowledge/  (this Markdown edition: https://rezakhosravivala.com/essays/kinds-of-knowledge/index.md)
 Summary: Categorizing about all the knowledge we know therefore being able to check the validity
 Topics: Spinoza, Ethics, kinds of knowledge, mind reality, reality psychology
 Originally on: Medium (https://medium.com/@mrez9090/spinoza-ethics-2-0-kinds-of-knowledge-reflection-mind-reality-gap-and-neuroses-e3efc78593d8); mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 2.3 Ideas (https://rezakhosravi.com/essays/ideas/index.md)
-Next: 2.5 Memory (https://rezakhosravi.com/essays/memory/index.md)
+Previous: 2.3 Ideas (https://rezakhosravivala.com/essays/ideas/index.md)
+Next: 2.5 Memory (https://rezakhosravivala.com/essays/memory/index.md)
 
-![The Thinker statue amid glowing atom symbols, geometric grids, marble busts and an open book](https://rezakhosravi.com/img/essays/kinds-of-knowledge/01.webp)
+![The Thinker statue amid glowing atom symbols, geometric grids, marble busts and an open book](https://rezakhosravivala.com/img/essays/kinds-of-knowledge/01.webp)
 
 What are Spinoza’s kinds of knowledge, and how can you use it as a tool to understand what kind of idea is valid, and what kind is not? and also to turn a light to the **maximum extent of freedom** that oneself can reach, however, it’s been declaimed from self by self because of the mind-reality gap and Neuroses formation.
 
-![A wireframe human head facing a mirror, with a burst of light between the head and its reflection](https://rezakhosravi.com/img/essays/kinds-of-knowledge/02.webp)
+![A wireframe human head facing a mirror, with a burst of light between the head and its reflection](https://rezakhosravivala.com/img/essays/kinds-of-knowledge/02.webp)
 
 ## Bias
 

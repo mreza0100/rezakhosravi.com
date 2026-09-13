@@ -1,20 +1,20 @@
 # (perfection or reality) or (God’s perfect graphic)
 
 Spinoza's Ethics 1.6 · essay 7 of 21 · by Reza Khosravivala · published 2024-07-21 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/perfection/  (this Markdown edition: https://rezakhosravi.com/essays/perfection/index.md)
+Canonical: https://rezakhosravivala.com/essays/perfection/  (this Markdown edition: https://rezakhosravivala.com/essays/perfection/index.md)
 Summary: Spinoza view on perfection and reality and how they are synonymous
 Topics: Spinoza, Ethics, Perfection, Reality
 Originally on: Medium (https://medium.com/@mrez9090/spinoza-ethics-1-2-perfection-or-reality-or-gods-infinitely-perfect-graphic-4be5f2e0aa88); mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 1.5 Necessity or infinite accuracy (https://rezakhosravi.com/essays/necessity/index.md)
-Next: 1.7 Miracles (https://rezakhosravi.com/essays/miracles/index.md)
+Previous: 1.5 Necessity or infinite accuracy (https://rezakhosravivala.com/essays/necessity/index.md)
+Next: 1.7 Miracles (https://rezakhosravivala.com/essays/miracles/index.md)
 
-![Radiant circular diagram of linked nodes labelled Nature, God and perfection around a burst of light](https://rezakhosravi.com/img/essays/perfection/01.webp)
+![Radiant circular diagram of linked nodes labelled Nature, God and perfection around a burst of light](https://rezakhosravivala.com/img/essays/perfection/01.webp)
 
 Understanding the concept of Spinoza’s perfection can completely change your **worldview** in a way that you won’t look at reality the same way you always have.
 
 At the end of understanding this concept, it's expected for you to see how everything is different from what you used to see, but yet nothing changed, except your understanding of how infinite, infinite is.
 
-![Starfield of orbits and glowing rings under the line God equals Nature equals Substance](https://rezakhosravi.com/img/essays/perfection/02.webp)
+![Starfield of orbits and glowing rings under the line God equals Nature equals Substance](https://rezakhosravivala.com/img/essays/perfection/02.webp)
 
 ## Infinity in numbers
 

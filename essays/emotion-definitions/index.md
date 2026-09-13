@@ -1,14 +1,14 @@
 # Emotion Definitions
 
 Spinoza's Ethics 3.1 · essay 20 of 21 · by Reza Khosravivala · published 2024-06-13 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/emotion-definitions/  (this Markdown edition: https://rezakhosravi.com/essays/emotion-definitions/index.md)
+Canonical: https://rezakhosravivala.com/essays/emotion-definitions/  (this Markdown edition: https://rezakhosravivala.com/essays/emotion-definitions/index.md)
 Summary: Spinoza's view on the emotions contrariwise
 Topics: Emotions definitions Spinoza
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 3.0 Emotions (https://rezakhosravi.com/essays/emotions/index.md)
-Next: 5.2 Intellectual Love of God or the Ultimate Freedom (https://rezakhosravi.com/essays/intellectual-love-of-god/index.md)
+Previous: 3.0 Emotions (https://rezakhosravivala.com/essays/emotions/index.md)
+Next: 5.2 Intellectual Love of God or the Ultimate Freedom (https://rezakhosravivala.com/essays/intellectual-love-of-god/index.md)
 
-![The Scream by Edvard Munch, a hollow eyed figure clutching its face on a bridge under a red sky](https://rezakhosravi.com/img/essays/emotion-definitions/01.webp)
+![The Scream by Edvard Munch, a hollow eyed figure clutching its face on a bridge under a red sky](https://rezakhosravivala.com/img/essays/emotion-definitions/01.webp)
 
 ## The deducted emotions
 

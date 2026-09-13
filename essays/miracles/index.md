@@ -1,20 +1,20 @@
 # Miracles
 
 Spinoza's Ethics 1.7 · essay 8 of 21 · by Reza Khosravivala · published 2024-05-17 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/miracles/  (this Markdown edition: https://rezakhosravi.com/essays/miracles/index.md)
+Canonical: https://rezakhosravivala.com/essays/miracles/  (this Markdown edition: https://rezakhosravivala.com/essays/miracles/index.md)
 Summary: Spinoza's view on the miracles and the impossibility of breaking the laws of nature
 Topics: Spinoza, Ethics, Miracles, Nature, Determinism, conditioned, contingent
 Originally on: GitHub (https://gist.github.com/mreza0100/94537142750c02340599da2683141eae); mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 1.6 (perfection or reality) or (God’s perfect graphic) (https://rezakhosravi.com/essays/perfection/index.md)
-Next: 2.0 Life or Living Beings (https://rezakhosravi.com/essays/life/index.md)
+Previous: 1.6 (perfection or reality) or (God’s perfect graphic) (https://rezakhosravivala.com/essays/perfection/index.md)
+Next: 2.0 Life or Living Beings (https://rezakhosravivala.com/essays/life/index.md)
 
-![Yoda raising a hand as an X wing fighter lifts out of a swamp, a law of nature apparently broken](https://rezakhosravi.com/img/essays/miracles/01.webp)
+![Yoda raising a hand as an X wing fighter lifts out of a swamp, a law of nature apparently broken](https://rezakhosravivala.com/img/essays/miracles/01.webp)
 
 ## Requirements to know
-- [Universe](https://rezakhosravi.com/essays/universe/)
-- [Causality](https://rezakhosravi.com/essays/causality/)
+- [Universe](https://rezakhosravivala.com/essays/universe/)
+- [Causality](https://rezakhosravivala.com/essays/causality/)
 
-![One glowing gold domino standing in a long V of dark dominoes, the cause that starts the chain](https://rezakhosravi.com/img/essays/miracles/02.webp)
+![One glowing gold domino standing in a long V of dark dominoes, the cause that starts the chain](https://rezakhosravivala.com/img/essays/miracles/02.webp)
 
 In the previous posts we discussed how everything in nature happens because of necessity and with infinite accuracy. Perfection and reality are synonymous: the laws of nature cannot be broken. Now we arrive at the question of miracles.
 
@@ -39,13 +39,13 @@ We have never observed any of the rules of nature being broken in the process of
 
 Consider a triangle: it has 3 sides and 3 angles.
 
-![A plain triangle with corners labelled A, B and C, whose angles must always total 180 degrees](https://rezakhosravi.com/img/essays/miracles/03.png)
+![A plain triangle with corners labelled A, B and C, whose angles must always total 180 degrees](https://rezakhosravivala.com/img/essays/miracles/03.png)
 
 A + B + C = 180 degrees.
 
 This is the rule that applies to all triangles in the world. To perform a miracle, you need to break a rule like this. Our mind knows it is impossible, because it is reality, and reality is perfect.
 
-We can see how the triangle is perfect because its rules cannot be broken. The triangle is part of reality. We discussed this concept in the previous post: perfection and reality are the same thing. The rules of nature are perfect in the same way the rules of the triangle are perfect. In the [perfection](https://rezakhosravi.com/essays/perfection/) page, we discussed the deep concept of perfection.
+We can see how the triangle is perfect because its rules cannot be broken. The triangle is part of reality. We discussed this concept in the previous post: perfection and reality are the same thing. The rules of nature are perfect in the same way the rules of the triangle are perfect. In the [perfection](https://rezakhosravivala.com/essays/perfection/) page, we discussed the deep concept of perfection.
 
 > *[E1p29](https://ethica.bc.edu/#/element/1P29) “Nothing in the universe is contingent, but all things are conditioned to exist and operate in a particular manner by the necessity of the divine nature.”*
 

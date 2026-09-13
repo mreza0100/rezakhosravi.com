@@ -1,20 +1,20 @@
 # Body
 
 Spinoza's Ethics 2.2 · essay 11 of 21 · by Reza Khosravivala · published 2024-05-19 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/body/  (this Markdown edition: https://rezakhosravi.com/essays/body/index.md)
+Canonical: https://rezakhosravivala.com/essays/body/  (this Markdown edition: https://rezakhosravivala.com/essays/body/index.md)
 Summary: Spinoza's view on the body and how it is a mode of substance
 Topics: Spinoza, Ethics, Body, Mode, Substance, Extension, Mind-Body
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 2.1 Mind (https://rezakhosravi.com/essays/mind/index.md)
-Next: 2.3 Ideas (https://rezakhosravi.com/essays/ideas/index.md)
+Previous: 2.1 Mind (https://rezakhosravivala.com/essays/mind/index.md)
+Next: 2.3 Ideas (https://rezakhosravivala.com/essays/ideas/index.md)
 
-![Glowing human figures inside linked circles of light around one bright core, bodies as modes of one substance](https://rezakhosravi.com/img/essays/body/01.webp)
+![Glowing human figures inside linked circles of light around one bright core, bodies as modes of one substance](https://rezakhosravivala.com/img/essays/body/01.webp)
 
 ### Requirements to know:
 
-- [Universe](https://rezakhosravi.com/essays/universe/)
-- [Causality](https://rezakhosravi.com/essays/causality/)
-- [Life](https://rezakhosravi.com/essays/life/)
+- [Universe](https://rezakhosravivala.com/essays/universe/)
+- [Causality](https://rezakhosravivala.com/essays/causality/)
+- [Life](https://rezakhosravivala.com/essays/life/)
 
 ## What is body
 
@@ -69,4 +69,4 @@ There is no ghost in the machine, and no soul piloting flesh. There is one subst
 
 The body is not a prison for the mind. The body is the mind, under a different attribute. Everything that happens in the body is perceived by the mind. Everything the mind conceives corresponds to a state of the body.
 
-If you want to know more of body and connections to mind, you can read [mind](https://rezakhosravi.com/essays/mind/)
+If you want to know more of body and connections to mind, you can read [mind](https://rezakhosravivala.com/essays/mind/)

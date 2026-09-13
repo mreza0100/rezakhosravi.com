@@ -1,19 +1,19 @@
 # Reza Khosravivala: Spinoza's Ethics, essay by essay
 
-Source: https://rezakhosravi.com/llms.txt. 21 essays in reading order; each begins with its own heading and metadata.
+Source: https://rezakhosravivala.com/llms.txt. 21 essays in reading order; each begins with its own heading and metadata.
 
 ---
 
 # Spinoza and Ethics
 
 Spinoza's Ethics 1.0 · essay 1 of 21 · by Reza Khosravivala · published 2024-05-15 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/spinoza-and-ethics/  (this Markdown edition: https://rezakhosravi.com/essays/spinoza-and-ethics/index.md)
+Canonical: https://rezakhosravivala.com/essays/spinoza-and-ethics/  (this Markdown edition: https://rezakhosravivala.com/essays/spinoza-and-ethics/index.md)
 Summary: Spinoza's view on the ethics and how he proves his propositions
 Topics: Spinoza, Ethics, Deductive reasoning, Propositions, Logic
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Next: 1.1 Universe (https://rezakhosravi.com/essays/universe/index.md)
+Next: 1.1 Universe (https://rezakhosravivala.com/essays/universe/index.md)
 
-![Portrait of Spinoza beside an open Latin page headed Ethices Pars Secunda](https://rezakhosravi.com/img/essays/spinoza-and-ethics/01.webp)
+![Portrait of Spinoza beside an open Latin page headed Ethices Pars Secunda](https://rezakhosravivala.com/img/essays/spinoza-and-ethics/01.webp)
 
 ## Spinoza and Ethics: The ground proof framework
 
@@ -44,7 +44,7 @@ He was trying to prove his ideas in a deduced way of [Euclid](https://en.wikiped
 
 ### Just so you get how it looks like:
 
-![Node network of Ethics propositions, coloured lines fanning from 3P3 out to labels like 5P20 and 4P64](https://rezakhosravi.com/img/essays/spinoza-and-ethics/02.webp)
+![Node network of Ethics propositions, coloured lines fanning from 3P3 out to labels like 5P20 and 4P64](https://rezakhosravivala.com/img/essays/spinoza-and-ethics/02.webp)
 
 *Ethics Dependency Graph*
 
@@ -150,14 +150,14 @@ But if you define religion as a way of living and set of rules to follow, then y
 # Universe
 
 Spinoza's Ethics 1.1 · essay 2 of 21 · by Reza Khosravivala · published 2024-05-22 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/universe/  (this Markdown edition: https://rezakhosravi.com/essays/universe/index.md)
+Canonical: https://rezakhosravivala.com/essays/universe/  (this Markdown edition: https://rezakhosravivala.com/essays/universe/index.md)
 Summary: Cause and effect in the universe
 Topics: universe, cause and effect, space, time, matter, energy
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 1.0 Spinoza and Ethics (https://rezakhosravi.com/essays/spinoza-and-ethics/index.md)
-Next: 1.2 Building Blocks (https://rezakhosravi.com/essays/building-blocks/index.md)
+Previous: 1.0 Spinoza and Ethics (https://rezakhosravivala.com/essays/spinoza-and-ethics/index.md)
+Next: 1.2 Building Blocks (https://rezakhosravivala.com/essays/building-blocks/index.md)
 
-![Quote card pairing a photo of a smiling grey haired man with Douglas Adams on the Universe being created](https://rezakhosravi.com/img/essays/universe/01.webp)
+![Quote card pairing a photo of a smiling grey haired man with Douglas Adams on the Universe being created](https://rezakhosravivala.com/img/essays/universe/01.webp)
 
 ### Definition of Universe from the book:
 
@@ -354,9 +354,9 @@ Game of life is a great example of the system, where the future of the game is d
 
 ### Next steps
 
-#### [Causality](https://rezakhosravi.com/essays/causality/)
+#### [Causality](https://rezakhosravivala.com/essays/causality/)
 
-#### [God](https://rezakhosravi.com/essays/god-or-nature/)
+#### [God](https://rezakhosravivala.com/essays/god-or-nature/)
 
 ### Resources:
 
@@ -369,14 +369,14 @@ Game of life is a great example of the system, where the future of the game is d
 # Building Blocks
 
 Spinoza's Ethics 1.2 · essay 3 of 21 · by Reza Khosravivala · published 2024-05-17 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/building-blocks/  (this Markdown edition: https://rezakhosravi.com/essays/building-blocks/index.md)
+Canonical: https://rezakhosravivala.com/essays/building-blocks/  (this Markdown edition: https://rezakhosravivala.com/essays/building-blocks/index.md)
 Summary: Spinoza's view on the building blocks of the fundamental elements of the universe
 Topics: Spinoza, Nature, attribute, substance, mode
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 1.1 Universe (https://rezakhosravi.com/essays/universe/index.md)
-Next: 1.3 God or nature (causality execution environment) (https://rezakhosravi.com/essays/god-or-nature/index.md)
+Previous: 1.1 Universe (https://rezakhosravivala.com/essays/universe/index.md)
+Next: 1.3 God or nature (causality execution environment) (https://rezakhosravivala.com/essays/god-or-nature/index.md)
 
-![Nested circles, one thick outer circle of substance holding attributes, each attribute holding smaller modes](https://rezakhosravi.com/img/essays/building-blocks/01.png)
+![Nested circles, one thick outer circle of substance holding attributes, each attribute holding smaller modes](https://rezakhosravivala.com/img/essays/building-blocks/01.png)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=leoBccWOZfo)
 
@@ -446,7 +446,7 @@ Nature is absolutely infinite, and it's indivisible, it's one unified field, and
 > [1P3](https://ethica.bc.edu/#/element/1P3) Two substances having different attributes have nothing in common with one another.
 
 Spinoza was looking at physical world and mind environment as 2 different things, and they have nothing in common with each other, an idea in your mind can't be shared with the physical world, and vice versa.
-He explain everything about both environments and how they contribute to the causality of the universe, you can read about [mind](https://rezakhosravi.com/essays/mind/) under life section.
+He explain everything about both environments and how they contribute to the causality of the universe, you can read about [mind](https://rezakhosravivala.com/essays/mind/) under life section.
 
 For more info of this P take a look at [God]({/universe/god/)
 
@@ -492,7 +492,7 @@ So far we know Spinoza defined these building block elements:
 
 Now we will use these building blocks to create a map of reality so we see how it looks like and fit together.
 
-![Boxes and arrows running from God or Nature to the attributes of extension and mind, then to substance and idea](https://rezakhosravi.com/img/essays/building-blocks/02.png)
+![Boxes and arrows running from God or Nature to the attributes of extension and mind, then to substance and idea](https://rezakhosravivala.com/img/essays/building-blocks/02.png)
 
 *spinoza-ethics-map-of-reality*
 
@@ -520,16 +520,16 @@ We have 3 redefined words that are the building blocks of the universe:
 # God or nature (causality execution environment)
 
 Spinoza's Ethics 1.3 · essay 4 of 21 · by Reza Khosravivala · published 2024-05-16 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/god-or-nature/  (this Markdown edition: https://rezakhosravi.com/essays/god-or-nature/index.md)
+Canonical: https://rezakhosravivala.com/essays/god-or-nature/  (this Markdown edition: https://rezakhosravivala.com/essays/god-or-nature/index.md)
 Summary: Spinoza's view on God, Nature, and Universe
 Topics: Spinoza, God, Nature, Universe, Ethics
 Originally on: Medium (https://medium.com/@mrez9090/spinoza-ethics-1-0-god-or-nature-causality-execution-environment-e76764a32e6d); mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 1.2 Building Blocks (https://rezakhosravi.com/essays/building-blocks/index.md)
-Next: 1.4 Causality (https://rezakhosravi.com/essays/causality/index.md)
+Previous: 1.2 Building Blocks (https://rezakhosravivala.com/essays/building-blocks/index.md)
+Next: 1.4 Causality (https://rezakhosravivala.com/essays/causality/index.md)
 
 In this post as the first one of this series, I want to explore Spinoza’s concept of **God or Nature**. Spinoza’s God is not the traditional personal deity who stands apart from creation, but rather the **entirety of existence** itself, what Spinoza calls **substance**. I will discuss what this means, how this substance expresses itself through **attributes**, how the universe operates through the laws of **causality**, and finally, how all this fits within our understanding of **causes** and **infinity**.
 
-![Painting of a huge bearded stone face over a forest, with planets, a rainbow, animals and a stream](https://rezakhosravi.com/img/essays/god-or-nature/01.webp)
+![Painting of a huge bearded stone face over a forest, with planets, a rainbow, animals and a stream](https://rezakhosravivala.com/img/essays/god-or-nature/01.webp)
 
 Understanding all these took time for me and I know it is confusing at the beginning, but if you give it time and look at it from the lens of reality, you will soon find a unique intuitive worldview in which you find the reflection in reality.
 
@@ -545,13 +545,13 @@ Spinoza defined all the words from the ground up, the word God, does not have th
 
 ## Nature
 
-It's equal to Universe, which I explained in [Universe](https://rezakhosravi.com/essays/universe/) page.
+It's equal to Universe, which I explained in [Universe](https://rezakhosravivala.com/essays/universe/) page.
 
 ## Spinoza definition of God
 
 Spinoza's God is fairly famous, but it's not well understood.
 
-![Albert Einstein in the back of a car, hair wild, sticking his tongue out at the camera](https://rezakhosravi.com/img/essays/god-or-nature/02.webp)
+![Albert Einstein in the back of a car, hair wild, sticking his tongue out at the camera](https://rezakhosravivala.com/img/essays/god-or-nature/02.webp)
 
 *Albert*
 
@@ -617,7 +617,7 @@ Our mind can understand the physical world, and itself separately.
 
 > [>[1.P9](https://ethica.bc.edu/#/element/1P9)] The more reality or being a thing has, the greater the number of its attributes.
 
-![Diagram of God or Nature branching into the attributes of extension and mind, each with its own mode](https://rezakhosravi.com/img/essays/god-or-nature/03.png)
+![Diagram of God or Nature branching into the attributes of extension and mind, each with its own mode](https://rezakhosravivala.com/img/essays/god-or-nature/03.png)
 
 *Map of reality*
 
@@ -696,7 +696,7 @@ In many sentences in your day to day life, you can easily change the word "God" 
 By God, Spinoza means an absolutely infinite and not limited by anything. A substance being with infinite attributes each expose eternal essentiality (it's infinitely essential to exist eternally).
 God is the underlying reality of everything, nothing can conceive without God, because everything is part of God.
 
-Attribute and substance do not have the same meaning as you think, if you are curious about it, you can read more about it here: [Building blocks of our universe](https://rezakhosravi.com/essays/building-blocks/)
+Attribute and substance do not have the same meaning as you think, if you are curious about it, you can read more about it here: [Building blocks of our universe](https://rezakhosravivala.com/essays/building-blocks/)
 
 > [1P14](https://ethica.bc.edu/#/element/1P14) Except God, no substance can be or be conceived.
 
@@ -781,7 +781,7 @@ In short words:
 - The causes of that effect had their own causes which made them happen
 - The causes of those causes had their own causes, and so on with no first one
 
-![Circles branching out from one marked the beginning of God into chains of later circles along a time arrow](https://rezakhosravi.com/img/essays/god-or-nature/04.png)
+![Circles branching out from one marked the beginning of God into chains of later circles along a time arrow](https://rezakhosravivala.com/img/essays/god-or-nature/04.png)
 
 > > [[1P28]](https://ethica.bc.edu/#/element/1P28): Every individual thing, or everything which is finite and has a conditioned existence, cannot exist or be conditioned to act, unless it be conditioned for existence and action by a cause other than itself, which also is finite, and has a conditioned existence; and likewise this cause cannot in its turn exist, or be conditioned to act, unless it be conditioned for existence and action by another cause, which also is finite, and has a conditioned existence, and so on to infinity.
 
@@ -837,22 +837,22 @@ Almost everything else you have in mind about God, is the same with Spinoza's Go
 # Causality
 
 Spinoza's Ethics 1.4 · essay 5 of 21 · by Reza Khosravivala · published 2024-05-15 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/causality/  (this Markdown edition: https://rezakhosravi.com/essays/causality/index.md)
+Canonical: https://rezakhosravivala.com/essays/causality/  (this Markdown edition: https://rezakhosravivala.com/essays/causality/index.md)
 Summary: Cause and effect, how things happen in the universe
 Topics: causality, cause and effect, time, randomness, determinism
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 1.3 God or nature (causality execution environment) (https://rezakhosravi.com/essays/god-or-nature/index.md)
-Next: 1.5 Necessity or infinite accuracy (https://rezakhosravi.com/essays/necessity/index.md)
+Previous: 1.3 God or nature (causality execution environment) (https://rezakhosravivala.com/essays/god-or-nature/index.md)
+Next: 1.5 Necessity or infinite accuracy (https://rezakhosravivala.com/essays/necessity/index.md)
 
-![A long curving line of dominoes mid fall, with one purple tile left standing beside the blue chain](https://rezakhosravi.com/img/essays/causality/01.webp)
+![A long curving line of dominoes mid fall, with one purple tile left standing beside the blue chain](https://rezakhosravivala.com/img/essays/causality/01.webp)
 
 Requirements to know:
 
-- [Universe](https://rezakhosravi.com/essays/universe/)
+- [Universe](https://rezakhosravivala.com/essays/universe/)
 
 ## Causality or Cause and Effect
 
-We have previously discussed the concept of cause and affect in the context of the [universe](https://rezakhosravi.com/essays/universe/).
+We have previously discussed the concept of cause and affect in the context of the [universe](https://rezakhosravivala.com/essays/universe/).
 
 In this post, we will discuss the concept of causality in more detail.
 
@@ -981,7 +981,7 @@ Simple answer: Nature and the laws of nature.
 These are the laws that cannot be broken, they are the laws that make the universe work the way it does.
 There are no cause and effect that happen outside the laws of nature, as long as it's happening in the nature.
 
-![Antique brass balance scale with two empty pans hanging level, painted in warm sepia tones](https://rezakhosravi.com/img/essays/causality/02.webp)
+![Antique brass balance scale with two empty pans hanging level, painted in warm sepia tones](https://rezakhosravivala.com/img/essays/causality/02.webp)
 
 *Scale is an example of how effect every time follows cause in such a predictable way, that if we don't know how it works, we would assume anything can happen*
 
@@ -1025,7 +1025,7 @@ You see, the event that made you read this post was the effect of causes that pu
   and for me to write it.
 Both are ncessesery as they have causes which followed by causes before them.
 
-You want to know how and how mind works? [go to life/mind](https://rezakhosravi.com/essays/mind/)
+You want to know how and how mind works? [go to life/mind](https://rezakhosravivala.com/essays/mind/)
 
 ## References
 
@@ -1040,12 +1040,12 @@ You want to know how and how mind works? [go to life/mind](https://rezakhosravi.
 # Necessity or infinite accuracy
 
 Spinoza's Ethics 1.5 · essay 6 of 21 · by Reza Khosravivala · published 2024-07-21 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/necessity/  (this Markdown edition: https://rezakhosravi.com/essays/necessity/index.md)
+Canonical: https://rezakhosravivala.com/essays/necessity/  (this Markdown edition: https://rezakhosravivala.com/essays/necessity/index.md)
 Summary: How the laws of nature determine that every effect must necessarily follow from its cause
 Topics: Spinoza, Ethics, Perfection, Reality
 Originally on: Medium (https://medium.com/@mrez9090/spinoza-ethics-1-1-necessity-or-infinite-accuracy-c6a500d4232a); mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 1.4 Causality (https://rezakhosravi.com/essays/causality/index.md)
-Next: 1.6 (perfection or reality) or (God’s perfect graphic) (https://rezakhosravi.com/essays/perfection/index.md)
+Previous: 1.4 Causality (https://rezakhosravivala.com/essays/causality/index.md)
+Next: 1.6 (perfection or reality) or (God’s perfect graphic) (https://rezakhosravivala.com/essays/perfection/index.md)
 
 In the last post, we discussed how **causality** works.
 Focusing on the **laws of nature** and how they determine that every effect must necessarily follow from its cause, and how **flexible** they are.
@@ -1054,7 +1054,7 @@ Focusing on the **laws of nature** and how they determine that every effect must
 
 I want to explain necessity with a simple example.
 
-![Video game sniper scope frame with red labels pointing at the range finder and the bullet drop](https://rezakhosravi.com/img/essays/necessity/01.webp)
+![Video game sniper scope frame with red labels pointing at the range finder and the bullet drop](https://rezakhosravivala.com/img/essays/necessity/01.webp)
 
 *bullet calculation in a video game*
 
@@ -1088,7 +1088,7 @@ Necessity of cause and effect is the way that Spinoza proved his concept.
 
 Any event/effect in the world has a cause, otherwise, the effect cannot follow from nothing. The event always follows from its cause or causes. Now with that said, if we consider any event in the world, it has causes which made that event happen, those causes had their own causes, which made them happen, and so on back without end. The chain never bottoms out in a first event. So we reach a strict chain of action and reaction, and the only way to change something in it is to change everything that caused it, back further than anyone can trace.
 
-![Diagram branching from a circle marked the beginning of God through nodes A, B and C along a time arrow](https://rezakhosravi.com/img/essays/necessity/02.png)
+![Diagram branching from a circle marked the beginning of God through nodes A, B and C along a time arrow](https://rezakhosravivala.com/img/essays/necessity/02.png)
 
 So we can see how everything is brought to reality, by a cause, so hence it follows nothing happens without a reason, which we call **truth**. This is also the reason truth cannot be **judged**: it’s neither good nor bad.
 
@@ -1108,7 +1108,7 @@ However, the imagination and action; all followed therefrom, are all products of
 
 > 1972, [Edward Norton Lorenz](https://en.wikipedia.org/wiki/Edward_Norton_Lorenz): He discovered the effect when he observed runs of his weather model with initial condition data that were rounded in a seemingly inconsequential manner. He noted that the weather model would fail to reproduce the results of runs with the unrounded initial condition data. A very small change in initial conditions had created a significantly different outcome
 
-![Toppling line of dominoes winding across a patterned world under a cosmic swirl, a butterfly above](https://rezakhosravi.com/img/essays/necessity/03.webp)
+![Toppling line of dominoes winding across a patterned world under a cosmic swirl, a butterfly above](https://rezakhosravivala.com/img/essays/necessity/03.webp)
 
 Weather is a form of **deterministic** [**chaotic system**](https://en.wikipedia.org/wiki/Butterfly_effect), which means that it is predictable in the short term but not in the long term. Small unpredictable changes completely change what we forecast almost all the time. This happens because of a lack of knowledge, many times inevitable.
 
@@ -1127,20 +1127,20 @@ Proof: God makes infinite things possible, in infinite ways. Each of them separa
 # (perfection or reality) or (God’s perfect graphic)
 
 Spinoza's Ethics 1.6 · essay 7 of 21 · by Reza Khosravivala · published 2024-07-21 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/perfection/  (this Markdown edition: https://rezakhosravi.com/essays/perfection/index.md)
+Canonical: https://rezakhosravivala.com/essays/perfection/  (this Markdown edition: https://rezakhosravivala.com/essays/perfection/index.md)
 Summary: Spinoza view on perfection and reality and how they are synonymous
 Topics: Spinoza, Ethics, Perfection, Reality
 Originally on: Medium (https://medium.com/@mrez9090/spinoza-ethics-1-2-perfection-or-reality-or-gods-infinitely-perfect-graphic-4be5f2e0aa88); mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 1.5 Necessity or infinite accuracy (https://rezakhosravi.com/essays/necessity/index.md)
-Next: 1.7 Miracles (https://rezakhosravi.com/essays/miracles/index.md)
+Previous: 1.5 Necessity or infinite accuracy (https://rezakhosravivala.com/essays/necessity/index.md)
+Next: 1.7 Miracles (https://rezakhosravivala.com/essays/miracles/index.md)
 
-![Radiant circular diagram of linked nodes labelled Nature, God and perfection around a burst of light](https://rezakhosravi.com/img/essays/perfection/01.webp)
+![Radiant circular diagram of linked nodes labelled Nature, God and perfection around a burst of light](https://rezakhosravivala.com/img/essays/perfection/01.webp)
 
 Understanding the concept of Spinoza’s perfection can completely change your **worldview** in a way that you won’t look at reality the same way you always have.
 
 At the end of understanding this concept, it's expected for you to see how everything is different from what you used to see, but yet nothing changed, except your understanding of how infinite, infinite is.
 
-![Starfield of orbits and glowing rings under the line God equals Nature equals Substance](https://rezakhosravi.com/img/essays/perfection/02.webp)
+![Starfield of orbits and glowing rings under the line God equals Nature equals Substance](https://rezakhosravivala.com/img/essays/perfection/02.webp)
 
 ## Infinity in numbers
 
@@ -1205,20 +1205,20 @@ Modern observations indicate that the observable universe is finite in extent an
 # Miracles
 
 Spinoza's Ethics 1.7 · essay 8 of 21 · by Reza Khosravivala · published 2024-05-17 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/miracles/  (this Markdown edition: https://rezakhosravi.com/essays/miracles/index.md)
+Canonical: https://rezakhosravivala.com/essays/miracles/  (this Markdown edition: https://rezakhosravivala.com/essays/miracles/index.md)
 Summary: Spinoza's view on the miracles and the impossibility of breaking the laws of nature
 Topics: Spinoza, Ethics, Miracles, Nature, Determinism, conditioned, contingent
 Originally on: GitHub (https://gist.github.com/mreza0100/94537142750c02340599da2683141eae); mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 1.6 (perfection or reality) or (God’s perfect graphic) (https://rezakhosravi.com/essays/perfection/index.md)
-Next: 2.0 Life or Living Beings (https://rezakhosravi.com/essays/life/index.md)
+Previous: 1.6 (perfection or reality) or (God’s perfect graphic) (https://rezakhosravivala.com/essays/perfection/index.md)
+Next: 2.0 Life or Living Beings (https://rezakhosravivala.com/essays/life/index.md)
 
-![Yoda raising a hand as an X wing fighter lifts out of a swamp, a law of nature apparently broken](https://rezakhosravi.com/img/essays/miracles/01.webp)
+![Yoda raising a hand as an X wing fighter lifts out of a swamp, a law of nature apparently broken](https://rezakhosravivala.com/img/essays/miracles/01.webp)
 
 ## Requirements to know
-- [Universe](https://rezakhosravi.com/essays/universe/)
-- [Causality](https://rezakhosravi.com/essays/causality/)
+- [Universe](https://rezakhosravivala.com/essays/universe/)
+- [Causality](https://rezakhosravivala.com/essays/causality/)
 
-![One glowing gold domino standing in a long V of dark dominoes, the cause that starts the chain](https://rezakhosravi.com/img/essays/miracles/02.webp)
+![One glowing gold domino standing in a long V of dark dominoes, the cause that starts the chain](https://rezakhosravivala.com/img/essays/miracles/02.webp)
 
 In the previous posts we discussed how everything in nature happens because of necessity and with infinite accuracy. Perfection and reality are synonymous: the laws of nature cannot be broken. Now we arrive at the question of miracles.
 
@@ -1243,13 +1243,13 @@ We have never observed any of the rules of nature being broken in the process of
 
 Consider a triangle: it has 3 sides and 3 angles.
 
-![A plain triangle with corners labelled A, B and C, whose angles must always total 180 degrees](https://rezakhosravi.com/img/essays/miracles/03.png)
+![A plain triangle with corners labelled A, B and C, whose angles must always total 180 degrees](https://rezakhosravivala.com/img/essays/miracles/03.png)
 
 A + B + C = 180 degrees.
 
 This is the rule that applies to all triangles in the world. To perform a miracle, you need to break a rule like this. Our mind knows it is impossible, because it is reality, and reality is perfect.
 
-We can see how the triangle is perfect because its rules cannot be broken. The triangle is part of reality. We discussed this concept in the previous post: perfection and reality are the same thing. The rules of nature are perfect in the same way the rules of the triangle are perfect. In the [perfection](https://rezakhosravi.com/essays/perfection/) page, we discussed the deep concept of perfection.
+We can see how the triangle is perfect because its rules cannot be broken. The triangle is part of reality. We discussed this concept in the previous post: perfection and reality are the same thing. The rules of nature are perfect in the same way the rules of the triangle are perfect. In the [perfection](https://rezakhosravivala.com/essays/perfection/) page, we discussed the deep concept of perfection.
 
 > *[E1p29](https://ethica.bc.edu/#/element/1P29) “Nothing in the universe is contingent, but all things are conditioned to exist and operate in a particular manner by the necessity of the divine nature.”*
 
@@ -1299,25 +1299,25 @@ Everything happens because of necessity, with infinite accuracy. There is no roo
 # Life or Living Beings
 
 Spinoza's Ethics 2.0 · essay 9 of 21 · by Reza Khosravivala · published 2024-05-19 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/life/  (this Markdown edition: https://rezakhosravi.com/essays/life/index.md)
+Canonical: https://rezakhosravivala.com/essays/life/  (this Markdown edition: https://rezakhosravivala.com/essays/life/index.md)
 Summary: Spinoza's view on the life and living beings and how they are part of nature
 Topics: Spinoza, Ethics, Life, Living Beings
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 1.7 Miracles (https://rezakhosravi.com/essays/miracles/index.md)
-Next: 2.1 Mind (https://rezakhosravi.com/essays/mind/index.md)
+Previous: 1.7 Miracles (https://rezakhosravivala.com/essays/miracles/index.md)
+Next: 2.1 Mind (https://rezakhosravivala.com/essays/mind/index.md)
 
-![Glowing web of circles and lines linking people, animals and trees in a green landscape, all one substance](https://rezakhosravi.com/img/essays/life/01.webp)
+![Glowing web of circles and lines linking people, animals and trees in a green landscape, all one substance](https://rezakhosravivala.com/img/essays/life/01.webp)
 
 ### Requirements to know:
 
-- [Universe](https://rezakhosravi.com/essays/universe/)
-- [Causality](https://rezakhosravi.com/essays/causality/)
+- [Universe](https://rezakhosravivala.com/essays/universe/)
+- [Causality](https://rezakhosravivala.com/essays/causality/)
 
 ## Life
 
 So far we talked that everything is a mode of one substance, which is God or Nature.
 Substance acts from its own nature alone. It is the finite things, the modes, that are conditioned by causes outside themselves to act in a certain way, see [1P28](https://ethica.bc.edu/#/element/1P28).
-We also talked in the [Building Blocks](https://rezakhosravi.com/essays/building-blocks/) that our body and our mind are not two substances, and not little pieces of a big one, they are the same mode of nature seen under Extension and under Thought, see [2P7](https://ethica.bc.edu/#/element/2P7).
+We also talked in the [Building Blocks](https://rezakhosravivala.com/essays/building-blocks/) that our body and our mind are not two substances, and not little pieces of a big one, they are the same mode of nature seen under Extension and under Thought, see [2P7](https://ethica.bc.edu/#/element/2P7).
 
 ### How did life start and evolve?
 
@@ -1384,20 +1384,20 @@ But we have not accepted this matter for ourselves since we believe that we have
 # Mind
 
 Spinoza's Ethics 2.1 · essay 10 of 21 · by Reza Khosravivala · published 2024-05-22 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/mind/  (this Markdown edition: https://rezakhosravi.com/essays/mind/index.md)
+Canonical: https://rezakhosravivala.com/essays/mind/  (this Markdown edition: https://rezakhosravivala.com/essays/mind/index.md)
 Summary: Spinoza's view on the mind, idea, and memory as modes of thought
 Topics: Spinoza, Ethics, Mind, Idea, Feelings, Emotions, Memory, Substance, Parallelism, Causality, Chaos Theory
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io); GitHub (https://gist.github.com/mreza0100/f05a15c0a7d30336bc6d955d8ecea900)
-Previous: 2.0 Life or Living Beings (https://rezakhosravi.com/essays/life/index.md)
-Next: 2.2 Body (https://rezakhosravi.com/essays/body/index.md)
+Previous: 2.0 Life or Living Beings (https://rezakhosravivala.com/essays/life/index.md)
+Next: 2.2 Body (https://rezakhosravivala.com/essays/body/index.md)
 
-![Painted scholar in a dark robe thinking over open notebooks, ringed by equations, a sun and a brain](https://rezakhosravi.com/img/essays/mind/01.webp)
+![Painted scholar in a dark robe thinking over open notebooks, ringed by equations, a sun and a brain](https://rezakhosravivala.com/img/essays/mind/01.webp)
 
 ## Requirements to know
 
-- [Universe](https://rezakhosravi.com/essays/universe/)
-- [Causality](https://rezakhosravi.com/essays/causality/)
-- [Life](https://rezakhosravi.com/essays/life/)
+- [Universe](https://rezakhosravivala.com/essays/universe/)
+- [Causality](https://rezakhosravivala.com/essays/causality/)
+- [Life](https://rezakhosravivala.com/essays/life/)
 
 
 ## Causality warmup
@@ -1417,7 +1417,7 @@ But in this post I shall write about:
 
 Mind is a complex dynamic system of network causality kind as a unified entity.
 
-In [Causality](https://rezakhosravi.com/essays/causality/) we defined 4 types of causality.
+In [Causality](https://rezakhosravivala.com/essays/causality/) we defined 4 types of causality.
 Mind is of the network causality kind, since smallest changes lead to change the final outcome, like weather and butterfly effect.
 In [here](https://www.hoffman-counselling.com/single-post/therapy-personality-and-chaos-theory) psychologist explains how mind works by using chaos theory example. Just like a very complex system which is reflecting the chaos theory.
 In corporation of cause and effect, he explains that a small change in the childhood can cause a big change in the personality of the person. We will talk more about psycho-analysis and how personality shapes in the next sections.
@@ -1468,7 +1468,7 @@ There are 2 topics that confirm causality in brain
 
 ## Mind as a mode of nature
 
-![A lone seated figure beneath a vast glowing net of nodes whose threads fall to the ground](https://rezakhosravi.com/img/essays/mind/02.webp)
+![A lone seated figure beneath a vast glowing net of nodes whose threads fall to the ground](https://rezakhosravivala.com/img/essays/mind/02.webp)
 
 > [1A2](https://ethica.bc.edu/#/element/1A2): That which cannot be conceived through anything else must be conceived through itself.
 
@@ -1592,7 +1592,7 @@ From these nodes, we can see that the mind might from node A, get to node B or F
 This is an example of 1 to 2 node per each idea, in reality we remember more than 2 things with each other.
 We will talk about this concept more under memory later.
 
-![Chain of lettered circles from A to E, each branching down to further circles, idea leading to idea](https://rezakhosravi.com/img/essays/mind/03.png)
+![Chain of lettered circles from A to E, each branching down to further circles, idea leading to idea](https://rezakhosravivala.com/img/essays/mind/03.png)
 
 *memory nodes*
 
@@ -1671,7 +1671,7 @@ For example the idea of triangle, is an adequate idea because it's not contained
 
 > I will hereafter show, a third kind of knowledge, which we will call intuition. This kind of knowledge proceeds from an adequate idea of the absolute essence of certain attributes of God to the adequate knowledge of the essence of things.
 
-Later on in the page of [knowledge](https://rezakhosravi.com/essays/kinds-of-knowledge/) I explain more on intuition.
+Later on in the page of [knowledge](https://rezakhosravivala.com/essays/kinds-of-knowledge/) I explain more on intuition.
 
 > [2P42](https://ethica.bc.edu/#/element/2P42): Knowledge of the second and third kinds, not knowledge of the first kind, teaches us to distinguish the true from the false.
 
@@ -1733,27 +1733,27 @@ The true freedom is not in choosing without causes. That is incoherent. The true
 
 We can see how this connects back to the network causality of mind. The system is too interconnected, too sensitive to initial conditions, for any single node to comprehend the whole. Understanding is always partial. But partial understanding, pursued honestly through reason rather than imagination, is the only path toward freedom Spinoza offers, and it is enough.
 
-I'll explain more on [free-will](https://rezakhosravi.com/essays/free-will/) and also more on [knowledge](https://rezakhosravi.com/essays/kinds-of-knowledge/)
+I'll explain more on [free-will](https://rezakhosravivala.com/essays/free-will/) and also more on [knowledge](https://rezakhosravivala.com/essays/kinds-of-knowledge/)
 
 ---
 
 # Body
 
 Spinoza's Ethics 2.2 · essay 11 of 21 · by Reza Khosravivala · published 2024-05-19 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/body/  (this Markdown edition: https://rezakhosravi.com/essays/body/index.md)
+Canonical: https://rezakhosravivala.com/essays/body/  (this Markdown edition: https://rezakhosravivala.com/essays/body/index.md)
 Summary: Spinoza's view on the body and how it is a mode of substance
 Topics: Spinoza, Ethics, Body, Mode, Substance, Extension, Mind-Body
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 2.1 Mind (https://rezakhosravi.com/essays/mind/index.md)
-Next: 2.3 Ideas (https://rezakhosravi.com/essays/ideas/index.md)
+Previous: 2.1 Mind (https://rezakhosravivala.com/essays/mind/index.md)
+Next: 2.3 Ideas (https://rezakhosravivala.com/essays/ideas/index.md)
 
-![Glowing human figures inside linked circles of light around one bright core, bodies as modes of one substance](https://rezakhosravi.com/img/essays/body/01.webp)
+![Glowing human figures inside linked circles of light around one bright core, bodies as modes of one substance](https://rezakhosravivala.com/img/essays/body/01.webp)
 
 ### Requirements to know:
 
-- [Universe](https://rezakhosravi.com/essays/universe/)
-- [Causality](https://rezakhosravi.com/essays/causality/)
-- [Life](https://rezakhosravi.com/essays/life/)
+- [Universe](https://rezakhosravivala.com/essays/universe/)
+- [Causality](https://rezakhosravivala.com/essays/causality/)
+- [Life](https://rezakhosravivala.com/essays/life/)
 
 ## What is body
 
@@ -1808,18 +1808,18 @@ There is no ghost in the machine, and no soul piloting flesh. There is one subst
 
 The body is not a prison for the mind. The body is the mind, under a different attribute. Everything that happens in the body is perceived by the mind. Everything the mind conceives corresponds to a state of the body.
 
-If you want to know more of body and connections to mind, you can read [mind](https://rezakhosravi.com/essays/mind/)
+If you want to know more of body and connections to mind, you can read [mind](https://rezakhosravivala.com/essays/mind/)
 
 ---
 
 # Ideas
 
 Spinoza's Ethics 2.3 · essay 12 of 21 · by Reza Khosravivala · published 2026-09-12
-Canonical: https://rezakhosravi.com/essays/ideas/  (this Markdown edition: https://rezakhosravi.com/essays/ideas/index.md)
+Canonical: https://rezakhosravivala.com/essays/ideas/  (this Markdown edition: https://rezakhosravivala.com/essays/ideas/index.md)
 Summary: What an idea is for Spinoza: an act of the mind rather than a picture in the head, and how adequate ideas differ from inadequate ones.
 Topics: Spinoza, Philosophy, Adequate Ideas, Mind, Metaphysics
-Previous: 2.2 Body (https://rezakhosravi.com/essays/body/index.md)
-Next: 2.4 Kinds of knowledge, reflection, mind-reality gap (https://rezakhosravi.com/essays/kinds-of-knowledge/index.md)
+Previous: 2.2 Body (https://rezakhosravivala.com/essays/body/index.md)
+Next: 2.4 Kinds of knowledge, reflection, mind-reality gap (https://rezakhosravivala.com/essays/kinds-of-knowledge/index.md)
 
 ## What Is an Idea
 
@@ -1888,18 +1888,18 @@ Truth, in the end, is its own standard. An adequate idea does not need external 
 # Kinds of knowledge, reflection, mind-reality gap
 
 Spinoza's Ethics 2.4 · essay 13 of 21 · by Reza Khosravivala · published 2024-07-17 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/kinds-of-knowledge/  (this Markdown edition: https://rezakhosravi.com/essays/kinds-of-knowledge/index.md)
+Canonical: https://rezakhosravivala.com/essays/kinds-of-knowledge/  (this Markdown edition: https://rezakhosravivala.com/essays/kinds-of-knowledge/index.md)
 Summary: Categorizing about all the knowledge we know therefore being able to check the validity
 Topics: Spinoza, Ethics, kinds of knowledge, mind reality, reality psychology
 Originally on: Medium (https://medium.com/@mrez9090/spinoza-ethics-2-0-kinds-of-knowledge-reflection-mind-reality-gap-and-neuroses-e3efc78593d8); mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 2.3 Ideas (https://rezakhosravi.com/essays/ideas/index.md)
-Next: 2.5 Memory (https://rezakhosravi.com/essays/memory/index.md)
+Previous: 2.3 Ideas (https://rezakhosravivala.com/essays/ideas/index.md)
+Next: 2.5 Memory (https://rezakhosravivala.com/essays/memory/index.md)
 
-![The Thinker statue amid glowing atom symbols, geometric grids, marble busts and an open book](https://rezakhosravi.com/img/essays/kinds-of-knowledge/01.webp)
+![The Thinker statue amid glowing atom symbols, geometric grids, marble busts and an open book](https://rezakhosravivala.com/img/essays/kinds-of-knowledge/01.webp)
 
 What are Spinoza’s kinds of knowledge, and how can you use it as a tool to understand what kind of idea is valid, and what kind is not? and also to turn a light to the **maximum extent of freedom** that oneself can reach, however, it’s been declaimed from self by self because of the mind-reality gap and Neuroses formation.
 
-![A wireframe human head facing a mirror, with a burst of light between the head and its reflection](https://rezakhosravi.com/img/essays/kinds-of-knowledge/02.webp)
+![A wireframe human head facing a mirror, with a burst of light between the head and its reflection](https://rezakhosravivala.com/img/essays/kinds-of-knowledge/02.webp)
 
 ## Bias
 
@@ -2138,20 +2138,20 @@ Sources:
 # Memory
 
 Spinoza's Ethics 2.5 · essay 14 of 21 · by Reza Khosravivala · published 2024-06-14 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/memory/  (this Markdown edition: https://rezakhosravi.com/essays/memory/index.md)
+Canonical: https://rezakhosravivala.com/essays/memory/  (this Markdown edition: https://rezakhosravivala.com/essays/memory/index.md)
 Summary: How memory and pattern recognition works and falsy errors
 Topics: Memory, ideas, pattern-recognition, Bias, First-Kind Knowledge, Emotions
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 2.4 Kinds of knowledge, reflection, mind-reality gap (https://rezakhosravi.com/essays/kinds-of-knowledge/index.md)
-Next: 2.6 Mind Errors (https://rezakhosravi.com/essays/errors/index.md)
+Previous: 2.4 Kinds of knowledge, reflection, mind-reality gap (https://rezakhosravivala.com/essays/kinds-of-knowledge/index.md)
+Next: 2.6 Mind Errors (https://rezakhosravivala.com/essays/errors/index.md)
 
-![Scattered coloured dots joined by thin lines into a loose network, like linked memory nodes](https://rezakhosravi.com/img/essays/memory/01.webp)
+![Scattered coloured dots joined by thin lines into a loose network, like linked memory nodes](https://rezakhosravivala.com/img/essays/memory/01.webp)
 
 ## Requirements to know
-- [Universe](https://rezakhosravi.com/essays/universe/)
-- [Causality](https://rezakhosravi.com/essays/causality/)
-- [Mind](https://rezakhosravi.com/essays/mind/)
-- [Emotions](https://rezakhosravi.com/essays/emotions/)
+- [Universe](https://rezakhosravivala.com/essays/universe/)
+- [Causality](https://rezakhosravivala.com/essays/causality/)
+- [Mind](https://rezakhosravivala.com/essays/mind/)
+- [Emotions](https://rezakhosravivala.com/essays/emotions/)
 
 ## What memory is
 
@@ -2183,7 +2183,7 @@ But if we let's say hate the first called Karen, we would have the same emotion 
 
 This is an accident and classified as the first kind of knowledge, in which that is falsy.
 
-![Two circles labelled Old Karen and New Karen, each marked with a minus, joined by an arrow](https://rezakhosravi.com/img/essays/memory/02.png)
+![Two circles labelled Old Karen and New Karen, each marked with a minus, joined by an arrow](https://rezakhosravivala.com/img/essays/memory/02.png)
 
 *negative/pain affection*
 
@@ -2197,7 +2197,7 @@ Let's say you have an old friend called Karen which you admire,
   you see someone new who's also called Karen,
   you will regard the new Karen with the feeling of pleasure because it reminds you of your old friend.
 
-![Two circles labelled Old Karen and New Karen, each marked with a plus, joined by an arrow](https://rezakhosravi.com/img/essays/memory/03.png)
+![Two circles labelled Old Karen and New Karen, each marked with a plus, joined by an arrow](https://rezakhosravivala.com/img/essays/memory/03.png)
 
 *positive/pleasure affection*
 
@@ -2274,11 +2274,11 @@ Also, at the times that mind don't manage to make any connection to the existing
 
 ## (Unconscious or conscious links) and biases
 
-![Side view of a woman with a short layered blonde bob and dark sunglasses](https://rezakhosravi.com/img/essays/memory/04.webp)
+![Side view of a woman with a short layered blonde bob and dark sunglasses](https://rezakhosravivala.com/img/essays/memory/04.webp)
 
 *Karen Haircut!*
 
-![Two person circles each linked down to a hairstyle box, the boxes joined by an arrow marked Hidden Link](https://rezakhosravi.com/img/essays/memory/05.png)
+![Two person circles each linked down to a hairstyle box, the boxes joined by an arrow marked Hidden Link](https://rezakhosravivala.com/img/essays/memory/05.png)
 
 *Hidden memory link*
 
@@ -2356,13 +2356,13 @@ the solution is in understanding the process and practice thinking.
 # Mind Errors
 
 Spinoza's Ethics 2.6 · essay 15 of 21 · by Reza Khosravivala · published 2024-06-14 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/errors/  (this Markdown edition: https://rezakhosravi.com/essays/errors/index.md)
+Canonical: https://rezakhosravivala.com/essays/errors/  (this Markdown edition: https://rezakhosravivala.com/essays/errors/index.md)
 Summary: Errors arise from not applying names to things rightly, and imagination does not vanish when the truth is known.
 Topics: Spinoza, Mind, Errors, CognitiveErrors, Falsity, Knowledge, Imagination
-Previous: 2.5 Memory (https://rezakhosravi.com/essays/memory/index.md)
-Next: 2.7 Freewill and Freedom (https://rezakhosravi.com/essays/free-will/index.md)
+Previous: 2.5 Memory (https://rezakhosravivala.com/essays/memory/index.md)
+Next: 2.7 Freewill and Freedom (https://rezakhosravivala.com/essays/free-will/index.md)
 
-![Portrait of Spinoza beside an open page of the Latin Ethics headed Ethices Pars Secunda](https://rezakhosravi.com/img/essays/errors/01.webp)
+![Portrait of Spinoza beside an open page of the Latin Ethics headed Ethices Pars Secunda](https://rezakhosravivala.com/img/essays/errors/01.webp)
 
 ## Naming things wrongly
 
@@ -2414,13 +2414,13 @@ Imagination, opinion and assumption are all knowledge of the first kind. That is
 # Freewill and Freedom
 
 Spinoza's Ethics 2.7 · essay 16 of 21 · by Reza Khosravivala · published 2024-07-21 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/free-will/  (this Markdown edition: https://rezakhosravi.com/essays/free-will/index.md)
+Canonical: https://rezakhosravivala.com/essays/free-will/  (this Markdown edition: https://rezakhosravivala.com/essays/free-will/index.md)
 Summary: In the mind there is no absolute or free will.
 Topics: Freewill, free, will, freedom, spinoza, ethics, human mind, determinism, consciousness, volition, mind
-Previous: 2.6 Mind Errors (https://rezakhosravi.com/essays/errors/index.md)
-Next: 2.8 Infinite Reflection (https://rezakhosravi.com/essays/infinite-reflection/index.md)
+Previous: 2.6 Mind Errors (https://rezakhosravivala.com/essays/errors/index.md)
+Next: 2.8 Infinite Reflection (https://rezakhosravivala.com/essays/infinite-reflection/index.md)
 
-![Spinoza in a dark coat next to an open Latin page of the Ethics opening the part on the mind](https://rezakhosravi.com/img/essays/free-will/01.webp)
+![Spinoza in a dark coat next to an open Latin page of the Ethics opening the part on the mind](https://rezakhosravivala.com/img/essays/free-will/01.webp)
 
 ## No free will in the mind
 
@@ -2491,11 +2491,11 @@ The freedom that is left is the understanding of the causes that determine you. 
 # Infinite Reflection
 
 Spinoza's Ethics 2.8 · essay 17 of 21 · by Reza Khosravivala · published 2026-09-12
-Canonical: https://rezakhosravi.com/essays/infinite-reflection/  (this Markdown edition: https://rezakhosravi.com/essays/infinite-reflection/index.md)
+Canonical: https://rezakhosravivala.com/essays/infinite-reflection/  (this Markdown edition: https://rezakhosravivala.com/essays/infinite-reflection/index.md)
 Summary: Spinoza's doctrine of infinite reflection: the idea of the mind relates to the mind as the mind relates to the body, all the way up.
 Topics: Self-awareness, Mind, Idea, Infinite Regress, Consciousness
-Previous: 2.7 Freewill and Freedom (https://rezakhosravi.com/essays/free-will/index.md)
-Next: 2.9 Meaning for all beings (https://rezakhosravi.com/essays/meaning/index.md)
+Previous: 2.7 Freewill and Freedom (https://rezakhosravivala.com/essays/free-will/index.md)
+Next: 2.9 Meaning for all beings (https://rezakhosravivala.com/essays/meaning/index.md)
 
 ## The Idea of an Idea
 
@@ -2560,14 +2560,14 @@ This is the structure of the mind: not a mirror reflecting itself into infinity 
 # Meaning for all beings
 
 Spinoza's Ethics 2.9 · essay 18 of 21 · by Reza Khosravivala · published 2024-05-19 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/meaning/  (this Markdown edition: https://rezakhosravi.com/essays/meaning/index.md)
+Canonical: https://rezakhosravivala.com/essays/meaning/  (this Markdown edition: https://rezakhosravivala.com/essays/meaning/index.md)
 Summary: Spinoza's view on the meaning of life and how all beings find meaning in everything
 Topics: Spinoza, appendix, meaning, ignorance, Ethics
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 2.8 Infinite Reflection (https://rezakhosravi.com/essays/infinite-reflection/index.md)
-Next: 3.0 Emotions (https://rezakhosravi.com/essays/emotions/index.md)
+Previous: 2.8 Infinite Reflection (https://rezakhosravivala.com/essays/infinite-reflection/index.md)
+Next: 3.0 Emotions (https://rezakhosravivala.com/essays/emotions/index.md)
 
-![A figure walking through a dreamlike field where plants, animals and planets hang in linked bubbles](https://rezakhosravi.com/img/essays/meaning/01.webp)
+![A figure walking through a dreamlike field where plants, animals and planets hang in linked bubbles](https://rezakhosravivala.com/img/essays/meaning/01.webp)
 
 ## Why we look for meaning in everything?
 
@@ -2817,20 +2817,20 @@ This community at the very first level has 1 member which is self, and at each l
 # Emotions
 
 Spinoza's Ethics 3.0 · essay 19 of 21 · by Reza Khosravivala · published 2024-06-06 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/emotions/  (this Markdown edition: https://rezakhosravi.com/essays/emotions/index.md)
+Canonical: https://rezakhosravivala.com/essays/emotions/  (this Markdown edition: https://rezakhosravivala.com/essays/emotions/index.md)
 Summary: Spinoza's view on the emotions contrariwise
 Topics: Spinoza, Ethics, Mind, Idea, Emotions, Feelings, Causality
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io); mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 2.9 Meaning for all beings (https://rezakhosravi.com/essays/meaning/index.md)
-Next: 3.1 Emotion Definitions (https://rezakhosravi.com/essays/emotion-definitions/index.md)
+Previous: 2.9 Meaning for all beings (https://rezakhosravivala.com/essays/meaning/index.md)
+Next: 3.1 Emotion Definitions (https://rezakhosravivala.com/essays/emotion-definitions/index.md)
 
-![Watercolour of a woman with a birdcage drawn over her head while a bright bird perches outside it](https://rezakhosravi.com/img/essays/emotions/01.webp)
+![Watercolour of a woman with a birdcage drawn over her head while a bright bird perches outside it](https://rezakhosravivala.com/img/essays/emotions/01.webp)
 
 ### Requirements to know
 
-- [Universe](https://rezakhosravi.com/essays/universe/)
-- [Causality](https://rezakhosravi.com/essays/causality/)
-- [Mind](https://rezakhosravi.com/essays/mind/)
+- [Universe](https://rezakhosravivala.com/essays/universe/)
+- [Causality](https://rezakhosravivala.com/essays/causality/)
+- [Mind](https://rezakhosravivala.com/essays/mind/)
 
 ## ON THE ORIGIN AND NATURE OF THE EMOTIONS
 
@@ -2854,7 +2854,7 @@ The sense of free will leads to the idea of being separated from the rest of the
 
 ### Why should I want to know?
 
-Human mind is not perfect, there are errors because of it's complex contingent nature which we explained in the [mind](https://rezakhosravi.com/essays/mind/);
+Human mind is not perfect, there are errors because of it's complex contingent nature which we explained in the [mind](https://rezakhosravivala.com/essays/mind/);
 Anger, disappointment, pride, love, shape these just don't happen by itself in a mysterious way,
 There are causes that makes them happen, just like how causes make things happen in real world.
 Our mind also works by cause and effect, and we already talked about it that as long as there is cause and effect,
@@ -2884,7 +2884,7 @@ For example when we desire Revenge, we regard it as will, but we might be unawar
 
 So to have the will over actions which arise from emotions, we need to understand emotions to take control.
 
-![Quote card pairing a woodcut of Spinoza with his line about understanding yourself and your emotions](https://rezakhosravi.com/img/essays/emotions/02.webp)
+![Quote card pairing a woodcut of Spinoza with his line about understanding yourself and your emotions](https://rezakhosravivala.com/img/essays/emotions/02.webp)
 
 ## What an emotion is
 
@@ -3343,7 +3343,7 @@ So and so that we clearly see this is happening in the world,
   some people might not have desire to possess in anything, that is not normal by this definition,
   the natural human desire is the same as animals, we do not have a morality system embedded inside, by birth or education.
 
-![Frame from a TV show, players in green tracksuits kneeling under a giant glass ball stuffed with banknotes](https://rezakhosravi.com/img/essays/emotions/03.webp)
+![Frame from a TV show, players in green tracksuits kneeling under a giant glass ball stuffed with banknotes](https://rezakhosravivala.com/img/essays/emotions/03.webp)
 
 *Squid Game*
 
@@ -3374,7 +3374,7 @@ Example: When we see someone with the same interests as us,
 
 This comes from reflecting our values and interests on others.
 
-![Painting of a grinning jester and a hooded monk leaning together at a table, holding spoons](https://rezakhosravi.com/img/essays/emotions/04.webp)
+![Painting of a grinning jester and a hooded monk leaning together at a table, holding spoons](https://rezakhosravivala.com/img/essays/emotions/04.webp)
 
 *Creepy Friends*
 
@@ -3411,7 +3411,7 @@ So the problem is not only the restraint of desire,
 
 > We must add, that a jealous man is not greeted by his beloved with the same joyful countenance as before, and this also gives him pain as a lover, as I will now show...
 
-![Sepia print of a collie resting a paw on the blanket of a child asleep in a fireside chair](https://rezakhosravi.com/img/essays/emotions/05.webp)
+![Sepia print of a collie resting a paw on the blanket of a child asleep in a fireside chair](https://rezakhosravivala.com/img/essays/emotions/05.webp)
 
 *A loyal dog puts his paw on the lap of a sick girl*
 
@@ -3432,7 +3432,7 @@ This comes from expectation/imagination and reality mismatch.
 
 Regret = The absence of the loved object
 
-![Painting of a man leaning toward a seated woman in pink while her maid watches from behind](https://rezakhosravi.com/img/essays/emotions/06.webp)
+![Painting of a man leaning toward a seated woman in pink while her maid watches from behind](https://rezakhosravivala.com/img/essays/emotions/06.webp)
 
 *An Interior with a Lady, her Maid, and a Gentleman*
 
@@ -3452,7 +3452,7 @@ Also hate and love are forms of pain and pleasure, so they make the same effect.
 Strength of desire is directly linked to the underlying emotion of pain or pleasure.
 As much as we feel pleasure or pain, we would desire to remove or consist in being as much as the emotion is.
 
-![Black and white photo of a painting, a woman with a violin among laughing men raising glasses](https://rezakhosravi.com/img/essays/emotions/07.webp)
+![Black and white photo of a painting, a woman with a violin among laughing men raising glasses](https://rezakhosravivala.com/img/essays/emotions/07.webp)
 
 *Love*
 
@@ -3481,7 +3481,7 @@ Contrary, if you love someone, you would try to benefit them.
 
 Also the strength of desire to make injury is directly linked to the underlying hate.
 
-![Judith gripping the hair of Holofernes and cutting his throat while an old servant looks on](https://rezakhosravi.com/img/essays/emotions/08.webp)
+![Judith gripping the hair of Holofernes and cutting his throat while an old servant looks on](https://rezakhosravivala.com/img/essays/emotions/08.webp)
 
 *Judith Beheading Holofernes (Caravaggio)*
 
@@ -3516,7 +3516,7 @@ If someone which we have no emotion to, do injury to us,
 - Anger = Desire to injure someone who made us hate.
 - Revenge = Desire to make injury as the same kind received.
 
-![Painting of a woman tipping an armoured soldier head first into a well beside a stone wall](https://rezakhosravi.com/img/essays/emotions/09.webp)
+![Painting of a woman tipping an armoured soldier head first into a well beside a stone wall](https://rezakhosravivala.com/img/essays/emotions/09.webp)
 
 *Timoclea pushing the Thracian captain who raped her into a well.*
 
@@ -3541,7 +3541,7 @@ In this case, if hate is greater than love, yet we try to injure who he loves us
 
 - Cruelty = Desire to injure someone who loves us.
 
-![Painted postcard of a young man leaning close to a woman in a pink dress holding a daisy](https://rezakhosravi.com/img/essays/emotions/10.webp)
+![Painted postcard of a young man leaning close to a woman in a pink dress holding a daisy](https://rezakhosravivala.com/img/essays/emotions/10.webp)
 
 *Franz Dobiaschofsky*
 
@@ -3566,7 +3566,7 @@ And we love others as much as they love us, which can destroy hate since it's co
 Love can destroy hate, as far as love is greater than hate.
   Also, contrary, hate can destroy love, as far as hate is greater than love.
 
-![Painting of two boys wrestling on the floor, one fist raised, playing cards scattered around them](https://rezakhosravi.com/img/essays/emotions/11.webp)
+![Painting of two boys wrestling on the floor, one fist raised, playing cards scattered around them](https://rezakhosravivala.com/img/essays/emotions/11.webp)
 
 *Reciprocal hate brings hate*
 
@@ -3584,7 +3584,7 @@ No one desire pain or hatred to enjoy greater pleasure after.
 No one wish to be harmed just to experience greater pleasure after recovery,
   because everyone desire to consist in being and avoid pain.
 
-![Painting of a Viking clasping the hand of a wounded warrior lying on a headland by the sea](https://rezakhosravi.com/img/essays/emotions/12.webp)
+![Painting of a Viking clasping the hand of a wounded warrior lying on a headland by the sea](https://rezakhosravivala.com/img/essays/emotions/12.webp)
 
 *Love that follows hate will be even stronger if there was no hate to begin with*
 
@@ -3636,7 +3636,7 @@ This is coming from our nature to group ourselves by similarities and difference
   and to reflect the feelings of individuals to the whole group.
 We can always see that different groups have pride in themselves and hate toward contrary group.
 
-![Liberty Leading the People, a woman raising the French flag and a musket above fallen bodies](https://rezakhosravi.com/img/essays/emotions/13.webp)
+![Liberty Leading the People, a woman raising the French flag and a musket above fallen bodies](https://rezakhosravivala.com/img/essays/emotions/13.webp)
 
 *Hate toward nation/class as nation/class*
 
@@ -3745,7 +3745,7 @@ If he's restricted by an evil that you humiliate, you would call him cowardly.
 
 > And in like manner will everyone pass judgment.
 
-![Dark painting of robed figures reaching up toward a glowing rising figure and a winged one](https://rezakhosravi.com/img/essays/emotions/14.webp)
+![Dark painting of robed figures reaching up toward a glowing rising figure and a winged one](https://rezakhosravivala.com/img/essays/emotions/14.webp)
 
 *Evil*
 
@@ -3797,7 +3797,7 @@ We said that Devotion is the result of Love + Wonder,
 - Derision = Contempt for what we hate or fear.
 - Scorn = Contempt for folly.
 
-![A white unicorn with a pastel mane standing in a misty pink forest](https://rezakhosravi.com/img/essays/emotions/15.webp)
+![A white unicorn with a pastel mane standing in a misty pink forest](https://rezakhosravivala.com/img/essays/emotions/15.webp)
 
 *pink floyd, another dick on the wall*
 
@@ -3827,7 +3827,7 @@ As much as we conceive ourselves great and cause of pleasure in others,
 So as a result, imaginations are the first kind of knowledge which is falsy and wrong,
   it makes us detach from reality based on desires.
 
-![Painting of a figure riding a flying carpet above a river plain, carrying a glowing lantern](https://rezakhosravi.com/img/essays/emotions/16.webp)
+![Painting of a figure riding a flying carpet above a river plain, carrying a glowing lantern](https://rezakhosravivala.com/img/essays/emotions/16.webp)
 
 *How illusionary imaginations of self-love might feel*
 
@@ -4074,14 +4074,14 @@ It shows from the nation proposition in which that it's the nature of us to grou
 # Emotion Definitions
 
 Spinoza's Ethics 3.1 · essay 20 of 21 · by Reza Khosravivala · published 2024-06-13 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/emotion-definitions/  (this Markdown edition: https://rezakhosravi.com/essays/emotion-definitions/index.md)
+Canonical: https://rezakhosravivala.com/essays/emotion-definitions/  (this Markdown edition: https://rezakhosravivala.com/essays/emotion-definitions/index.md)
 Summary: Spinoza's view on the emotions contrariwise
 Topics: Emotions definitions Spinoza
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 3.0 Emotions (https://rezakhosravi.com/essays/emotions/index.md)
-Next: 5.2 Intellectual Love of God or the Ultimate Freedom (https://rezakhosravi.com/essays/intellectual-love-of-god/index.md)
+Previous: 3.0 Emotions (https://rezakhosravivala.com/essays/emotions/index.md)
+Next: 5.2 Intellectual Love of God or the Ultimate Freedom (https://rezakhosravivala.com/essays/intellectual-love-of-god/index.md)
 
-![The Scream by Edvard Munch, a hollow eyed figure clutching its face on a bridge under a red sky](https://rezakhosravi.com/img/essays/emotion-definitions/01.webp)
+![The Scream by Edvard Munch, a hollow eyed figure clutching its face on a bridge under a red sky](https://rezakhosravivala.com/img/essays/emotion-definitions/01.webp)
 
 ## The deducted emotions
 
@@ -4304,10 +4304,10 @@ When, therefore, I said above that the power of the mind is increased or diminis
 # Intellectual Love of God or the Ultimate Freedom
 
 Spinoza's Ethics 5.2 · essay 21 of 21 · by Reza Khosravivala · published 2026-09-12
-Canonical: https://rezakhosravi.com/essays/intellectual-love-of-god/  (this Markdown edition: https://rezakhosravi.com/essays/intellectual-love-of-god/index.md)
+Canonical: https://rezakhosravivala.com/essays/intellectual-love-of-god/  (this Markdown edition: https://rezakhosravivala.com/essays/intellectual-love-of-god/index.md)
 Summary: Freedom through necessity: how understanding the causes of things, up to the third kind of knowledge, is Spinoza's ultimate freedom.
 Topics: Spinoza, Freedom, Amor Dei Intellectualis, Necessity, Blessedness
-Previous: 3.1 Emotion Definitions (https://rezakhosravi.com/essays/emotion-definitions/index.md)
+Previous: 3.1 Emotion Definitions (https://rezakhosravivala.com/essays/emotion-definitions/index.md)
 
 ## Introduction
 

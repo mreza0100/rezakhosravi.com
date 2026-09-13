@@ -1,16 +1,16 @@
 # God or nature (causality execution environment)
 
 Spinoza's Ethics 1.3 · essay 4 of 21 · by Reza Khosravivala · published 2024-05-16 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/god-or-nature/  (this Markdown edition: https://rezakhosravi.com/essays/god-or-nature/index.md)
+Canonical: https://rezakhosravivala.com/essays/god-or-nature/  (this Markdown edition: https://rezakhosravivala.com/essays/god-or-nature/index.md)
 Summary: Spinoza's view on God, Nature, and Universe
 Topics: Spinoza, God, Nature, Universe, Ethics
 Originally on: Medium (https://medium.com/@mrez9090/spinoza-ethics-1-0-god-or-nature-causality-execution-environment-e76764a32e6d); mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 1.2 Building Blocks (https://rezakhosravi.com/essays/building-blocks/index.md)
-Next: 1.4 Causality (https://rezakhosravi.com/essays/causality/index.md)
+Previous: 1.2 Building Blocks (https://rezakhosravivala.com/essays/building-blocks/index.md)
+Next: 1.4 Causality (https://rezakhosravivala.com/essays/causality/index.md)
 
 In this post as the first one of this series, I want to explore Spinoza’s concept of **God or Nature**. Spinoza’s God is not the traditional personal deity who stands apart from creation, but rather the **entirety of existence** itself, what Spinoza calls **substance**. I will discuss what this means, how this substance expresses itself through **attributes**, how the universe operates through the laws of **causality**, and finally, how all this fits within our understanding of **causes** and **infinity**.
 
-![Painting of a huge bearded stone face over a forest, with planets, a rainbow, animals and a stream](https://rezakhosravi.com/img/essays/god-or-nature/01.webp)
+![Painting of a huge bearded stone face over a forest, with planets, a rainbow, animals and a stream](https://rezakhosravivala.com/img/essays/god-or-nature/01.webp)
 
 Understanding all these took time for me and I know it is confusing at the beginning, but if you give it time and look at it from the lens of reality, you will soon find a unique intuitive worldview in which you find the reflection in reality.
 
@@ -26,13 +26,13 @@ Spinoza defined all the words from the ground up, the word God, does not have th
 
 ## Nature
 
-It's equal to Universe, which I explained in [Universe](https://rezakhosravi.com/essays/universe/) page.
+It's equal to Universe, which I explained in [Universe](https://rezakhosravivala.com/essays/universe/) page.
 
 ## Spinoza definition of God
 
 Spinoza's God is fairly famous, but it's not well understood.
 
-![Albert Einstein in the back of a car, hair wild, sticking his tongue out at the camera](https://rezakhosravi.com/img/essays/god-or-nature/02.webp)
+![Albert Einstein in the back of a car, hair wild, sticking his tongue out at the camera](https://rezakhosravivala.com/img/essays/god-or-nature/02.webp)
 
 *Albert*
 
@@ -98,7 +98,7 @@ Our mind can understand the physical world, and itself separately.
 
 > [>[1.P9](https://ethica.bc.edu/#/element/1P9)] The more reality or being a thing has, the greater the number of its attributes.
 
-![Diagram of God or Nature branching into the attributes of extension and mind, each with its own mode](https://rezakhosravi.com/img/essays/god-or-nature/03.png)
+![Diagram of God or Nature branching into the attributes of extension and mind, each with its own mode](https://rezakhosravivala.com/img/essays/god-or-nature/03.png)
 
 *Map of reality*
 
@@ -177,7 +177,7 @@ In many sentences in your day to day life, you can easily change the word "God" 
 By God, Spinoza means an absolutely infinite and not limited by anything. A substance being with infinite attributes each expose eternal essentiality (it's infinitely essential to exist eternally).
 God is the underlying reality of everything, nothing can conceive without God, because everything is part of God.
 
-Attribute and substance do not have the same meaning as you think, if you are curious about it, you can read more about it here: [Building blocks of our universe](https://rezakhosravi.com/essays/building-blocks/)
+Attribute and substance do not have the same meaning as you think, if you are curious about it, you can read more about it here: [Building blocks of our universe](https://rezakhosravivala.com/essays/building-blocks/)
 
 > [1P14](https://ethica.bc.edu/#/element/1P14) Except God, no substance can be or be conceived.
 
@@ -262,7 +262,7 @@ In short words:
 - The causes of that effect had their own causes which made them happen
 - The causes of those causes had their own causes, and so on with no first one
 
-![Circles branching out from one marked the beginning of God into chains of later circles along a time arrow](https://rezakhosravi.com/img/essays/god-or-nature/04.png)
+![Circles branching out from one marked the beginning of God into chains of later circles along a time arrow](https://rezakhosravivala.com/img/essays/god-or-nature/04.png)
 
 > > [[1P28]](https://ethica.bc.edu/#/element/1P28): Every individual thing, or everything which is finite and has a conditioned existence, cannot exist or be conditioned to act, unless it be conditioned for existence and action by a cause other than itself, which also is finite, and has a conditioned existence; and likewise this cause cannot in its turn exist, or be conditioned to act, unless it be conditioned for existence and action by another cause, which also is finite, and has a conditioned existence, and so on to infinity.
 

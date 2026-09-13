@@ -1,11 +1,11 @@
 # Ideas
 
 Spinoza's Ethics 2.3 · essay 12 of 21 · by Reza Khosravivala · published 2026-09-12
-Canonical: https://rezakhosravi.com/essays/ideas/  (this Markdown edition: https://rezakhosravi.com/essays/ideas/index.md)
+Canonical: https://rezakhosravivala.com/essays/ideas/  (this Markdown edition: https://rezakhosravivala.com/essays/ideas/index.md)
 Summary: What an idea is for Spinoza: an act of the mind rather than a picture in the head, and how adequate ideas differ from inadequate ones.
 Topics: Spinoza, Philosophy, Adequate Ideas, Mind, Metaphysics
-Previous: 2.2 Body (https://rezakhosravi.com/essays/body/index.md)
-Next: 2.4 Kinds of knowledge, reflection, mind-reality gap (https://rezakhosravi.com/essays/kinds-of-knowledge/index.md)
+Previous: 2.2 Body (https://rezakhosravivala.com/essays/body/index.md)
+Next: 2.4 Kinds of knowledge, reflection, mind-reality gap (https://rezakhosravivala.com/essays/kinds-of-knowledge/index.md)
 
 ## What Is an Idea
 

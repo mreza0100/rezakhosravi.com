@@ -1,20 +1,20 @@
 # Emotions
 
 Spinoza's Ethics 3.0 · essay 19 of 21 · by Reza Khosravivala · published 2024-06-06 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/emotions/  (this Markdown edition: https://rezakhosravi.com/essays/emotions/index.md)
+Canonical: https://rezakhosravivala.com/essays/emotions/  (this Markdown edition: https://rezakhosravivala.com/essays/emotions/index.md)
 Summary: Spinoza's view on the emotions contrariwise
 Topics: Spinoza, Ethics, Mind, Idea, Emotions, Feelings, Causality
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io); mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 2.9 Meaning for all beings (https://rezakhosravi.com/essays/meaning/index.md)
-Next: 3.1 Emotion Definitions (https://rezakhosravi.com/essays/emotion-definitions/index.md)
+Previous: 2.9 Meaning for all beings (https://rezakhosravivala.com/essays/meaning/index.md)
+Next: 3.1 Emotion Definitions (https://rezakhosravivala.com/essays/emotion-definitions/index.md)
 
-![Watercolour of a woman with a birdcage drawn over her head while a bright bird perches outside it](https://rezakhosravi.com/img/essays/emotions/01.webp)
+![Watercolour of a woman with a birdcage drawn over her head while a bright bird perches outside it](https://rezakhosravivala.com/img/essays/emotions/01.webp)
 
 ### Requirements to know
 
-- [Universe](https://rezakhosravi.com/essays/universe/)
-- [Causality](https://rezakhosravi.com/essays/causality/)
-- [Mind](https://rezakhosravi.com/essays/mind/)
+- [Universe](https://rezakhosravivala.com/essays/universe/)
+- [Causality](https://rezakhosravivala.com/essays/causality/)
+- [Mind](https://rezakhosravivala.com/essays/mind/)
 
 ## ON THE ORIGIN AND NATURE OF THE EMOTIONS
 
@@ -38,7 +38,7 @@ The sense of free will leads to the idea of being separated from the rest of the
 
 ### Why should I want to know?
 
-Human mind is not perfect, there are errors because of it's complex contingent nature which we explained in the [mind](https://rezakhosravi.com/essays/mind/);
+Human mind is not perfect, there are errors because of it's complex contingent nature which we explained in the [mind](https://rezakhosravivala.com/essays/mind/);
 Anger, disappointment, pride, love, shape these just don't happen by itself in a mysterious way,
 There are causes that makes them happen, just like how causes make things happen in real world.
 Our mind also works by cause and effect, and we already talked about it that as long as there is cause and effect,
@@ -68,7 +68,7 @@ For example when we desire Revenge, we regard it as will, but we might be unawar
 
 So to have the will over actions which arise from emotions, we need to understand emotions to take control.
 
-![Quote card pairing a woodcut of Spinoza with his line about understanding yourself and your emotions](https://rezakhosravi.com/img/essays/emotions/02.webp)
+![Quote card pairing a woodcut of Spinoza with his line about understanding yourself and your emotions](https://rezakhosravivala.com/img/essays/emotions/02.webp)
 
 ## What an emotion is
 
@@ -527,7 +527,7 @@ So and so that we clearly see this is happening in the world,
   some people might not have desire to possess in anything, that is not normal by this definition,
   the natural human desire is the same as animals, we do not have a morality system embedded inside, by birth or education.
 
-![Frame from a TV show, players in green tracksuits kneeling under a giant glass ball stuffed with banknotes](https://rezakhosravi.com/img/essays/emotions/03.webp)
+![Frame from a TV show, players in green tracksuits kneeling under a giant glass ball stuffed with banknotes](https://rezakhosravivala.com/img/essays/emotions/03.webp)
 
 *Squid Game*
 
@@ -558,7 +558,7 @@ Example: When we see someone with the same interests as us,
 
 This comes from reflecting our values and interests on others.
 
-![Painting of a grinning jester and a hooded monk leaning together at a table, holding spoons](https://rezakhosravi.com/img/essays/emotions/04.webp)
+![Painting of a grinning jester and a hooded monk leaning together at a table, holding spoons](https://rezakhosravivala.com/img/essays/emotions/04.webp)
 
 *Creepy Friends*
 
@@ -595,7 +595,7 @@ So the problem is not only the restraint of desire,
 
 > We must add, that a jealous man is not greeted by his beloved with the same joyful countenance as before, and this also gives him pain as a lover, as I will now show...
 
-![Sepia print of a collie resting a paw on the blanket of a child asleep in a fireside chair](https://rezakhosravi.com/img/essays/emotions/05.webp)
+![Sepia print of a collie resting a paw on the blanket of a child asleep in a fireside chair](https://rezakhosravivala.com/img/essays/emotions/05.webp)
 
 *A loyal dog puts his paw on the lap of a sick girl*
 
@@ -616,7 +616,7 @@ This comes from expectation/imagination and reality mismatch.
 
 Regret = The absence of the loved object
 
-![Painting of a man leaning toward a seated woman in pink while her maid watches from behind](https://rezakhosravi.com/img/essays/emotions/06.webp)
+![Painting of a man leaning toward a seated woman in pink while her maid watches from behind](https://rezakhosravivala.com/img/essays/emotions/06.webp)
 
 *An Interior with a Lady, her Maid, and a Gentleman*
 
@@ -636,7 +636,7 @@ Also hate and love are forms of pain and pleasure, so they make the same effect.
 Strength of desire is directly linked to the underlying emotion of pain or pleasure.
 As much as we feel pleasure or pain, we would desire to remove or consist in being as much as the emotion is.
 
-![Black and white photo of a painting, a woman with a violin among laughing men raising glasses](https://rezakhosravi.com/img/essays/emotions/07.webp)
+![Black and white photo of a painting, a woman with a violin among laughing men raising glasses](https://rezakhosravivala.com/img/essays/emotions/07.webp)
 
 *Love*
 
@@ -665,7 +665,7 @@ Contrary, if you love someone, you would try to benefit them.
 
 Also the strength of desire to make injury is directly linked to the underlying hate.
 
-![Judith gripping the hair of Holofernes and cutting his throat while an old servant looks on](https://rezakhosravi.com/img/essays/emotions/08.webp)
+![Judith gripping the hair of Holofernes and cutting his throat while an old servant looks on](https://rezakhosravivala.com/img/essays/emotions/08.webp)
 
 *Judith Beheading Holofernes (Caravaggio)*
 
@@ -700,7 +700,7 @@ If someone which we have no emotion to, do injury to us,
 - Anger = Desire to injure someone who made us hate.
 - Revenge = Desire to make injury as the same kind received.
 
-![Painting of a woman tipping an armoured soldier head first into a well beside a stone wall](https://rezakhosravi.com/img/essays/emotions/09.webp)
+![Painting of a woman tipping an armoured soldier head first into a well beside a stone wall](https://rezakhosravivala.com/img/essays/emotions/09.webp)
 
 *Timoclea pushing the Thracian captain who raped her into a well.*
 
@@ -725,7 +725,7 @@ In this case, if hate is greater than love, yet we try to injure who he loves us
 
 - Cruelty = Desire to injure someone who loves us.
 
-![Painted postcard of a young man leaning close to a woman in a pink dress holding a daisy](https://rezakhosravi.com/img/essays/emotions/10.webp)
+![Painted postcard of a young man leaning close to a woman in a pink dress holding a daisy](https://rezakhosravivala.com/img/essays/emotions/10.webp)
 
 *Franz Dobiaschofsky*
 
@@ -750,7 +750,7 @@ And we love others as much as they love us, which can destroy hate since it's co
 Love can destroy hate, as far as love is greater than hate.
   Also, contrary, hate can destroy love, as far as hate is greater than love.
 
-![Painting of two boys wrestling on the floor, one fist raised, playing cards scattered around them](https://rezakhosravi.com/img/essays/emotions/11.webp)
+![Painting of two boys wrestling on the floor, one fist raised, playing cards scattered around them](https://rezakhosravivala.com/img/essays/emotions/11.webp)
 
 *Reciprocal hate brings hate*
 
@@ -768,7 +768,7 @@ No one desire pain or hatred to enjoy greater pleasure after.
 No one wish to be harmed just to experience greater pleasure after recovery,
   because everyone desire to consist in being and avoid pain.
 
-![Painting of a Viking clasping the hand of a wounded warrior lying on a headland by the sea](https://rezakhosravi.com/img/essays/emotions/12.webp)
+![Painting of a Viking clasping the hand of a wounded warrior lying on a headland by the sea](https://rezakhosravivala.com/img/essays/emotions/12.webp)
 
 *Love that follows hate will be even stronger if there was no hate to begin with*
 
@@ -820,7 +820,7 @@ This is coming from our nature to group ourselves by similarities and difference
   and to reflect the feelings of individuals to the whole group.
 We can always see that different groups have pride in themselves and hate toward contrary group.
 
-![Liberty Leading the People, a woman raising the French flag and a musket above fallen bodies](https://rezakhosravi.com/img/essays/emotions/13.webp)
+![Liberty Leading the People, a woman raising the French flag and a musket above fallen bodies](https://rezakhosravivala.com/img/essays/emotions/13.webp)
 
 *Hate toward nation/class as nation/class*
 
@@ -929,7 +929,7 @@ If he's restricted by an evil that you humiliate, you would call him cowardly.
 
 > And in like manner will everyone pass judgment.
 
-![Dark painting of robed figures reaching up toward a glowing rising figure and a winged one](https://rezakhosravi.com/img/essays/emotions/14.webp)
+![Dark painting of robed figures reaching up toward a glowing rising figure and a winged one](https://rezakhosravivala.com/img/essays/emotions/14.webp)
 
 *Evil*
 
@@ -981,7 +981,7 @@ We said that Devotion is the result of Love + Wonder,
 - Derision = Contempt for what we hate or fear.
 - Scorn = Contempt for folly.
 
-![A white unicorn with a pastel mane standing in a misty pink forest](https://rezakhosravi.com/img/essays/emotions/15.webp)
+![A white unicorn with a pastel mane standing in a misty pink forest](https://rezakhosravivala.com/img/essays/emotions/15.webp)
 
 *pink floyd, another dick on the wall*
 
@@ -1011,7 +1011,7 @@ As much as we conceive ourselves great and cause of pleasure in others,
 So as a result, imaginations are the first kind of knowledge which is falsy and wrong,
   it makes us detach from reality based on desires.
 
-![Painting of a figure riding a flying carpet above a river plain, carrying a glowing lantern](https://rezakhosravi.com/img/essays/emotions/16.webp)
+![Painting of a figure riding a flying carpet above a river plain, carrying a glowing lantern](https://rezakhosravivala.com/img/essays/emotions/16.webp)
 
 *How illusionary imaginations of self-love might feel*
 

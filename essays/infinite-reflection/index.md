@@ -1,11 +1,11 @@
 # Infinite Reflection
 
 Spinoza's Ethics 2.8 · essay 17 of 21 · by Reza Khosravivala · published 2026-09-12
-Canonical: https://rezakhosravi.com/essays/infinite-reflection/  (this Markdown edition: https://rezakhosravi.com/essays/infinite-reflection/index.md)
+Canonical: https://rezakhosravivala.com/essays/infinite-reflection/  (this Markdown edition: https://rezakhosravivala.com/essays/infinite-reflection/index.md)
 Summary: Spinoza's doctrine of infinite reflection: the idea of the mind relates to the mind as the mind relates to the body, all the way up.
 Topics: Self-awareness, Mind, Idea, Infinite Regress, Consciousness
-Previous: 2.7 Freewill and Freedom (https://rezakhosravi.com/essays/free-will/index.md)
-Next: 2.9 Meaning for all beings (https://rezakhosravi.com/essays/meaning/index.md)
+Previous: 2.7 Freewill and Freedom (https://rezakhosravivala.com/essays/free-will/index.md)
+Next: 2.9 Meaning for all beings (https://rezakhosravivala.com/essays/meaning/index.md)
 
 ## The Idea of an Idea
 

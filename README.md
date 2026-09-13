@@ -1,4 +1,4 @@
-# rezakhosravi.com
+# rezakhosravivala.com
 
 Plain HTML personal site and essays, hosted on GitHub Pages. No build step on the server, no JavaScript, and nothing loads from third parties.
 

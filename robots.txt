@@ -1,4 +1,4 @@
-# rezakhosravi.com: everything here is public and may be indexed, quoted and read by machines.
+# rezakhosravivala.com: everything here is public and may be indexed, quoted and read by machines.
 # A Markdown index for language models is at /llms.txt (whole series: /llms-full.txt).
 
 User-agent: *
@@ -37,4 +37,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://rezakhosravi.com/sitemap.xml
+Sitemap: https://rezakhosravivala.com/sitemap.xml

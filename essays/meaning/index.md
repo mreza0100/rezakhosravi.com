@@ -1,14 +1,14 @@
 # Meaning for all beings
 
 Spinoza's Ethics 2.9 · essay 18 of 21 · by Reza Khosravivala · published 2024-05-19 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/meaning/  (this Markdown edition: https://rezakhosravi.com/essays/meaning/index.md)
+Canonical: https://rezakhosravivala.com/essays/meaning/  (this Markdown edition: https://rezakhosravivala.com/essays/meaning/index.md)
 Summary: Spinoza's view on the meaning of life and how all beings find meaning in everything
 Topics: Spinoza, appendix, meaning, ignorance, Ethics
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 2.8 Infinite Reflection (https://rezakhosravi.com/essays/infinite-reflection/index.md)
-Next: 3.0 Emotions (https://rezakhosravi.com/essays/emotions/index.md)
+Previous: 2.8 Infinite Reflection (https://rezakhosravivala.com/essays/infinite-reflection/index.md)
+Next: 3.0 Emotions (https://rezakhosravivala.com/essays/emotions/index.md)
 
-![A figure walking through a dreamlike field where plants, animals and planets hang in linked bubbles](https://rezakhosravi.com/img/essays/meaning/01.webp)
+![A figure walking through a dreamlike field where plants, animals and planets hang in linked bubbles](https://rezakhosravivala.com/img/essays/meaning/01.webp)
 
 ## Why we look for meaning in everything?
 

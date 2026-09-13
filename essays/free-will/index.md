@@ -1,13 +1,13 @@
 # Freewill and Freedom
 
 Spinoza's Ethics 2.7 · essay 16 of 21 · by Reza Khosravivala · published 2024-07-21 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/free-will/  (this Markdown edition: https://rezakhosravi.com/essays/free-will/index.md)
+Canonical: https://rezakhosravivala.com/essays/free-will/  (this Markdown edition: https://rezakhosravivala.com/essays/free-will/index.md)
 Summary: In the mind there is no absolute or free will.
 Topics: Freewill, free, will, freedom, spinoza, ethics, human mind, determinism, consciousness, volition, mind
-Previous: 2.6 Mind Errors (https://rezakhosravi.com/essays/errors/index.md)
-Next: 2.8 Infinite Reflection (https://rezakhosravi.com/essays/infinite-reflection/index.md)
+Previous: 2.6 Mind Errors (https://rezakhosravivala.com/essays/errors/index.md)
+Next: 2.8 Infinite Reflection (https://rezakhosravivala.com/essays/infinite-reflection/index.md)
 
-![Spinoza in a dark coat next to an open Latin page of the Ethics opening the part on the mind](https://rezakhosravi.com/img/essays/free-will/01.webp)
+![Spinoza in a dark coat next to an open Latin page of the Ethics opening the part on the mind](https://rezakhosravivala.com/img/essays/free-will/01.webp)
 
 ## No free will in the mind
 

@@ -1,25 +1,25 @@
 # Life or Living Beings
 
 Spinoza's Ethics 2.0 · essay 9 of 21 · by Reza Khosravivala · published 2024-05-19 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/life/  (this Markdown edition: https://rezakhosravi.com/essays/life/index.md)
+Canonical: https://rezakhosravivala.com/essays/life/  (this Markdown edition: https://rezakhosravivala.com/essays/life/index.md)
 Summary: Spinoza's view on the life and living beings and how they are part of nature
 Topics: Spinoza, Ethics, Life, Living Beings
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 1.7 Miracles (https://rezakhosravi.com/essays/miracles/index.md)
-Next: 2.1 Mind (https://rezakhosravi.com/essays/mind/index.md)
+Previous: 1.7 Miracles (https://rezakhosravivala.com/essays/miracles/index.md)
+Next: 2.1 Mind (https://rezakhosravivala.com/essays/mind/index.md)
 
-![Glowing web of circles and lines linking people, animals and trees in a green landscape, all one substance](https://rezakhosravi.com/img/essays/life/01.webp)
+![Glowing web of circles and lines linking people, animals and trees in a green landscape, all one substance](https://rezakhosravivala.com/img/essays/life/01.webp)
 
 ### Requirements to know:
 
-- [Universe](https://rezakhosravi.com/essays/universe/)
-- [Causality](https://rezakhosravi.com/essays/causality/)
+- [Universe](https://rezakhosravivala.com/essays/universe/)
+- [Causality](https://rezakhosravivala.com/essays/causality/)
 
 ## Life
 
 So far we talked that everything is a mode of one substance, which is God or Nature.
 Substance acts from its own nature alone. It is the finite things, the modes, that are conditioned by causes outside themselves to act in a certain way, see [1P28](https://ethica.bc.edu/#/element/1P28).
-We also talked in the [Building Blocks](https://rezakhosravi.com/essays/building-blocks/) that our body and our mind are not two substances, and not little pieces of a big one, they are the same mode of nature seen under Extension and under Thought, see [2P7](https://ethica.bc.edu/#/element/2P7).
+We also talked in the [Building Blocks](https://rezakhosravivala.com/essays/building-blocks/) that our body and our mind are not two substances, and not little pieces of a big one, they are the same mode of nature seen under Extension and under Thought, see [2P7](https://ethica.bc.edu/#/element/2P7).
 
 ### How did life start and evolve?
 

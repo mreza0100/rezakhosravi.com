@@ -1,13 +1,13 @@
 # Spinoza and Ethics
 
 Spinoza's Ethics 1.0 · essay 1 of 21 · by Reza Khosravivala · published 2024-05-15 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/spinoza-and-ethics/  (this Markdown edition: https://rezakhosravi.com/essays/spinoza-and-ethics/index.md)
+Canonical: https://rezakhosravivala.com/essays/spinoza-and-ethics/  (this Markdown edition: https://rezakhosravivala.com/essays/spinoza-and-ethics/index.md)
 Summary: Spinoza's view on the ethics and how he proves his propositions
 Topics: Spinoza, Ethics, Deductive reasoning, Propositions, Logic
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Next: 1.1 Universe (https://rezakhosravi.com/essays/universe/index.md)
+Next: 1.1 Universe (https://rezakhosravivala.com/essays/universe/index.md)
 
-![Portrait of Spinoza beside an open Latin page headed Ethices Pars Secunda](https://rezakhosravi.com/img/essays/spinoza-and-ethics/01.webp)
+![Portrait of Spinoza beside an open Latin page headed Ethices Pars Secunda](https://rezakhosravivala.com/img/essays/spinoza-and-ethics/01.webp)
 
 ## Spinoza and Ethics: The ground proof framework
 
@@ -38,7 +38,7 @@ He was trying to prove his ideas in a deduced way of [Euclid](https://en.wikiped
 
 ### Just so you get how it looks like:
 
-![Node network of Ethics propositions, coloured lines fanning from 3P3 out to labels like 5P20 and 4P64](https://rezakhosravi.com/img/essays/spinoza-and-ethics/02.webp)
+![Node network of Ethics propositions, coloured lines fanning from 3P3 out to labels like 5P20 and 4P64](https://rezakhosravivala.com/img/essays/spinoza-and-ethics/02.webp)
 
 *Ethics Dependency Graph*
 

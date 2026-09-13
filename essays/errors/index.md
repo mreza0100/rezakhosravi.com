@@ -1,13 +1,13 @@
 # Mind Errors
 
 Spinoza's Ethics 2.6 · essay 15 of 21 · by Reza Khosravivala · published 2024-06-14 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/errors/  (this Markdown edition: https://rezakhosravi.com/essays/errors/index.md)
+Canonical: https://rezakhosravivala.com/essays/errors/  (this Markdown edition: https://rezakhosravivala.com/essays/errors/index.md)
 Summary: Errors arise from not applying names to things rightly, and imagination does not vanish when the truth is known.
 Topics: Spinoza, Mind, Errors, CognitiveErrors, Falsity, Knowledge, Imagination
-Previous: 2.5 Memory (https://rezakhosravi.com/essays/memory/index.md)
-Next: 2.7 Freewill and Freedom (https://rezakhosravi.com/essays/free-will/index.md)
+Previous: 2.5 Memory (https://rezakhosravivala.com/essays/memory/index.md)
+Next: 2.7 Freewill and Freedom (https://rezakhosravivala.com/essays/free-will/index.md)
 
-![Portrait of Spinoza beside an open page of the Latin Ethics headed Ethices Pars Secunda](https://rezakhosravi.com/img/essays/errors/01.webp)
+![Portrait of Spinoza beside an open page of the Latin Ethics headed Ethices Pars Secunda](https://rezakhosravivala.com/img/essays/errors/01.webp)
 
 ## Naming things wrongly
 

@@ -1,22 +1,22 @@
 # Causality
 
 Spinoza's Ethics 1.4 · essay 5 of 21 · by Reza Khosravivala · published 2024-05-15 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/causality/  (this Markdown edition: https://rezakhosravi.com/essays/causality/index.md)
+Canonical: https://rezakhosravivala.com/essays/causality/  (this Markdown edition: https://rezakhosravivala.com/essays/causality/index.md)
 Summary: Cause and effect, how things happen in the universe
 Topics: causality, cause and effect, time, randomness, determinism
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 1.3 God or nature (causality execution environment) (https://rezakhosravi.com/essays/god-or-nature/index.md)
-Next: 1.5 Necessity or infinite accuracy (https://rezakhosravi.com/essays/necessity/index.md)
+Previous: 1.3 God or nature (causality execution environment) (https://rezakhosravivala.com/essays/god-or-nature/index.md)
+Next: 1.5 Necessity or infinite accuracy (https://rezakhosravivala.com/essays/necessity/index.md)
 
-![A long curving line of dominoes mid fall, with one purple tile left standing beside the blue chain](https://rezakhosravi.com/img/essays/causality/01.webp)
+![A long curving line of dominoes mid fall, with one purple tile left standing beside the blue chain](https://rezakhosravivala.com/img/essays/causality/01.webp)
 
 Requirements to know:
 
-- [Universe](https://rezakhosravi.com/essays/universe/)
+- [Universe](https://rezakhosravivala.com/essays/universe/)
 
 ## Causality or Cause and Effect
 
-We have previously discussed the concept of cause and affect in the context of the [universe](https://rezakhosravi.com/essays/universe/).
+We have previously discussed the concept of cause and affect in the context of the [universe](https://rezakhosravivala.com/essays/universe/).
 
 In this post, we will discuss the concept of causality in more detail.
 
@@ -145,7 +145,7 @@ Simple answer: Nature and the laws of nature.
 These are the laws that cannot be broken, they are the laws that make the universe work the way it does.
 There are no cause and effect that happen outside the laws of nature, as long as it's happening in the nature.
 
-![Antique brass balance scale with two empty pans hanging level, painted in warm sepia tones](https://rezakhosravi.com/img/essays/causality/02.webp)
+![Antique brass balance scale with two empty pans hanging level, painted in warm sepia tones](https://rezakhosravivala.com/img/essays/causality/02.webp)
 
 *Scale is an example of how effect every time follows cause in such a predictable way, that if we don't know how it works, we would assume anything can happen*
 
@@ -189,7 +189,7 @@ You see, the event that made you read this post was the effect of causes that pu
   and for me to write it.
 Both are ncessesery as they have causes which followed by causes before them.
 
-You want to know how and how mind works? [go to life/mind](https://rezakhosravi.com/essays/mind/)
+You want to know how and how mind works? [go to life/mind](https://rezakhosravivala.com/essays/mind/)
 
 ## References
 

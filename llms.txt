@@ -2,37 +2,37 @@
 
 > Software engineer with a background in psychology, based in the Netherlands. This site holds his essays: a 21-part walk through Spinoza's Ethics, from the universe down to the emotions, plus pages on his work, background and contact.
 
-Every essay has a Markdown edition at its URL plus `index.md`. The whole series in one file: https://rezakhosravi.com/llms-full.txt. Feed: https://rezakhosravi.com/feed.xml. Author page: https://rezakhosravi.com/about/.
+Every essay has a Markdown edition at its URL plus `index.md`. The whole series in one file: https://rezakhosravivala.com/llms-full.txt. Feed: https://rezakhosravivala.com/feed.xml. Author page: https://rezakhosravivala.com/about/.
 
 ## Essays: Spinoza's Ethics, read in order
 
-- [1.0 Spinoza and Ethics](https://rezakhosravi.com/essays/spinoza-and-ethics/index.md): Spinoza's view on the ethics and how he proves his propositions
-- [1.1 Universe](https://rezakhosravi.com/essays/universe/index.md): Cause and effect in the universe
-- [1.2 Building Blocks](https://rezakhosravi.com/essays/building-blocks/index.md): Spinoza's view on the building blocks of the fundamental elements of the universe
-- [1.3 God or nature (causality execution environment)](https://rezakhosravi.com/essays/god-or-nature/index.md): Spinoza's view on God, Nature, and Universe
-- [1.4 Causality](https://rezakhosravi.com/essays/causality/index.md): Cause and effect, how things happen in the universe
-- [1.5 Necessity or infinite accuracy](https://rezakhosravi.com/essays/necessity/index.md): How the laws of nature determine that every effect must necessarily follow from its cause
-- [1.6 (perfection or reality) or (God’s perfect graphic)](https://rezakhosravi.com/essays/perfection/index.md): Spinoza view on perfection and reality and how they are synonymous
-- [1.7 Miracles](https://rezakhosravi.com/essays/miracles/index.md): Spinoza's view on the miracles and the impossibility of breaking the laws of nature
-- [2.0 Life or Living Beings](https://rezakhosravi.com/essays/life/index.md): Spinoza's view on the life and living beings and how they are part of nature
-- [2.1 Mind](https://rezakhosravi.com/essays/mind/index.md): Spinoza's view on the mind, idea, and memory as modes of thought
-- [2.2 Body](https://rezakhosravi.com/essays/body/index.md): Spinoza's view on the body and how it is a mode of substance
-- [2.3 Ideas](https://rezakhosravi.com/essays/ideas/index.md): What an idea is for Spinoza: an act of the mind rather than a picture in the head, and how adequate ideas differ from inadequate ones.
-- [2.4 Kinds of knowledge, reflection, mind-reality gap](https://rezakhosravi.com/essays/kinds-of-knowledge/index.md): Categorizing about all the knowledge we know therefore being able to check the validity
-- [2.5 Memory](https://rezakhosravi.com/essays/memory/index.md): How memory and pattern recognition works and falsy errors
-- [2.6 Mind Errors](https://rezakhosravi.com/essays/errors/index.md): Errors arise from not applying names to things rightly, and imagination does not vanish when the truth is known.
-- [2.7 Freewill and Freedom](https://rezakhosravi.com/essays/free-will/index.md): In the mind there is no absolute or free will.
-- [2.8 Infinite Reflection](https://rezakhosravi.com/essays/infinite-reflection/index.md): Spinoza's doctrine of infinite reflection: the idea of the mind relates to the mind as the mind relates to the body, all the way up.
-- [2.9 Meaning for all beings](https://rezakhosravi.com/essays/meaning/index.md): Spinoza's view on the meaning of life and how all beings find meaning in everything
-- [3.0 Emotions](https://rezakhosravi.com/essays/emotions/index.md): Spinoza's view on the emotions contrariwise
-- [3.1 Emotion Definitions](https://rezakhosravi.com/essays/emotion-definitions/index.md): Spinoza's view on the emotions contrariwise
-- [5.2 Intellectual Love of God or the Ultimate Freedom](https://rezakhosravi.com/essays/intellectual-love-of-god/index.md): Freedom through necessity: how understanding the causes of things, up to the third kind of knowledge, is Spinoza's ultimate freedom.
+- [1.0 Spinoza and Ethics](https://rezakhosravivala.com/essays/spinoza-and-ethics/index.md): Spinoza's view on the ethics and how he proves his propositions
+- [1.1 Universe](https://rezakhosravivala.com/essays/universe/index.md): Cause and effect in the universe
+- [1.2 Building Blocks](https://rezakhosravivala.com/essays/building-blocks/index.md): Spinoza's view on the building blocks of the fundamental elements of the universe
+- [1.3 God or nature (causality execution environment)](https://rezakhosravivala.com/essays/god-or-nature/index.md): Spinoza's view on God, Nature, and Universe
+- [1.4 Causality](https://rezakhosravivala.com/essays/causality/index.md): Cause and effect, how things happen in the universe
+- [1.5 Necessity or infinite accuracy](https://rezakhosravivala.com/essays/necessity/index.md): How the laws of nature determine that every effect must necessarily follow from its cause
+- [1.6 (perfection or reality) or (God’s perfect graphic)](https://rezakhosravivala.com/essays/perfection/index.md): Spinoza view on perfection and reality and how they are synonymous
+- [1.7 Miracles](https://rezakhosravivala.com/essays/miracles/index.md): Spinoza's view on the miracles and the impossibility of breaking the laws of nature
+- [2.0 Life or Living Beings](https://rezakhosravivala.com/essays/life/index.md): Spinoza's view on the life and living beings and how they are part of nature
+- [2.1 Mind](https://rezakhosravivala.com/essays/mind/index.md): Spinoza's view on the mind, idea, and memory as modes of thought
+- [2.2 Body](https://rezakhosravivala.com/essays/body/index.md): Spinoza's view on the body and how it is a mode of substance
+- [2.3 Ideas](https://rezakhosravivala.com/essays/ideas/index.md): What an idea is for Spinoza: an act of the mind rather than a picture in the head, and how adequate ideas differ from inadequate ones.
+- [2.4 Kinds of knowledge, reflection, mind-reality gap](https://rezakhosravivala.com/essays/kinds-of-knowledge/index.md): Categorizing about all the knowledge we know therefore being able to check the validity
+- [2.5 Memory](https://rezakhosravivala.com/essays/memory/index.md): How memory and pattern recognition works and falsy errors
+- [2.6 Mind Errors](https://rezakhosravivala.com/essays/errors/index.md): Errors arise from not applying names to things rightly, and imagination does not vanish when the truth is known.
+- [2.7 Freewill and Freedom](https://rezakhosravivala.com/essays/free-will/index.md): In the mind there is no absolute or free will.
+- [2.8 Infinite Reflection](https://rezakhosravivala.com/essays/infinite-reflection/index.md): Spinoza's doctrine of infinite reflection: the idea of the mind relates to the mind as the mind relates to the body, all the way up.
+- [2.9 Meaning for all beings](https://rezakhosravivala.com/essays/meaning/index.md): Spinoza's view on the meaning of life and how all beings find meaning in everything
+- [3.0 Emotions](https://rezakhosravivala.com/essays/emotions/index.md): Spinoza's view on the emotions contrariwise
+- [3.1 Emotion Definitions](https://rezakhosravivala.com/essays/emotion-definitions/index.md): Spinoza's view on the emotions contrariwise
+- [5.2 Intellectual Love of God or the Ultimate Freedom](https://rezakhosravivala.com/essays/intellectual-love-of-god/index.md): Freedom through necessity: how understanding the causes of things, up to the third kind of knowledge, is Spinoza's ultimate freedom.
 
 ## Pages
 
-- [Essays](https://rezakhosravi.com/essays/): the series index
-- [About](https://rezakhosravi.com/about/): background and a short bio
-- [Work](https://rezakhosravi.com/work/): what he is building and has built
-- [Contact](https://rezakhosravi.com/contact/): email
-- [Disclosures](https://rezakhosravi.com/disclosures/): interests that may bear on the writing
-- [Privacy](https://rezakhosravi.com/privacy/): what the site does and does not collect
+- [Essays](https://rezakhosravivala.com/essays/): the series index
+- [About](https://rezakhosravivala.com/about/): background and a short bio
+- [Work](https://rezakhosravivala.com/work/): what he is building and has built
+- [Contact](https://rezakhosravivala.com/contact/): email
+- [Disclosures](https://rezakhosravivala.com/disclosures/): interests that may bear on the writing
+- [Privacy](https://rezakhosravivala.com/privacy/): what the site does and does not collect

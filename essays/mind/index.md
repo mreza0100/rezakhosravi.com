@@ -1,20 +1,20 @@
 # Mind
 
 Spinoza's Ethics 2.1 · essay 10 of 21 · by Reza Khosravivala · published 2024-05-22 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/mind/  (this Markdown edition: https://rezakhosravi.com/essays/mind/index.md)
+Canonical: https://rezakhosravivala.com/essays/mind/  (this Markdown edition: https://rezakhosravivala.com/essays/mind/index.md)
 Summary: Spinoza's view on the mind, idea, and memory as modes of thought
 Topics: Spinoza, Ethics, Mind, Idea, Feelings, Emotions, Memory, Substance, Parallelism, Causality, Chaos Theory
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io); GitHub (https://gist.github.com/mreza0100/f05a15c0a7d30336bc6d955d8ecea900)
-Previous: 2.0 Life or Living Beings (https://rezakhosravi.com/essays/life/index.md)
-Next: 2.2 Body (https://rezakhosravi.com/essays/body/index.md)
+Previous: 2.0 Life or Living Beings (https://rezakhosravivala.com/essays/life/index.md)
+Next: 2.2 Body (https://rezakhosravivala.com/essays/body/index.md)
 
-![Painted scholar in a dark robe thinking over open notebooks, ringed by equations, a sun and a brain](https://rezakhosravi.com/img/essays/mind/01.webp)
+![Painted scholar in a dark robe thinking over open notebooks, ringed by equations, a sun and a brain](https://rezakhosravivala.com/img/essays/mind/01.webp)
 
 ## Requirements to know
 
-- [Universe](https://rezakhosravi.com/essays/universe/)
-- [Causality](https://rezakhosravi.com/essays/causality/)
-- [Life](https://rezakhosravi.com/essays/life/)
+- [Universe](https://rezakhosravivala.com/essays/universe/)
+- [Causality](https://rezakhosravivala.com/essays/causality/)
+- [Life](https://rezakhosravivala.com/essays/life/)
 
 
 ## Causality warmup
@@ -34,7 +34,7 @@ But in this post I shall write about:
 
 Mind is a complex dynamic system of network causality kind as a unified entity.
 
-In [Causality](https://rezakhosravi.com/essays/causality/) we defined 4 types of causality.
+In [Causality](https://rezakhosravivala.com/essays/causality/) we defined 4 types of causality.
 Mind is of the network causality kind, since smallest changes lead to change the final outcome, like weather and butterfly effect.
 In [here](https://www.hoffman-counselling.com/single-post/therapy-personality-and-chaos-theory) psychologist explains how mind works by using chaos theory example. Just like a very complex system which is reflecting the chaos theory.
 In corporation of cause and effect, he explains that a small change in the childhood can cause a big change in the personality of the person. We will talk more about psycho-analysis and how personality shapes in the next sections.
@@ -85,7 +85,7 @@ There are 2 topics that confirm causality in brain
 
 ## Mind as a mode of nature
 
-![A lone seated figure beneath a vast glowing net of nodes whose threads fall to the ground](https://rezakhosravi.com/img/essays/mind/02.webp)
+![A lone seated figure beneath a vast glowing net of nodes whose threads fall to the ground](https://rezakhosravivala.com/img/essays/mind/02.webp)
 
 > [1A2](https://ethica.bc.edu/#/element/1A2): That which cannot be conceived through anything else must be conceived through itself.
 
@@ -209,7 +209,7 @@ From these nodes, we can see that the mind might from node A, get to node B or F
 This is an example of 1 to 2 node per each idea, in reality we remember more than 2 things with each other.
 We will talk about this concept more under memory later.
 
-![Chain of lettered circles from A to E, each branching down to further circles, idea leading to idea](https://rezakhosravi.com/img/essays/mind/03.png)
+![Chain of lettered circles from A to E, each branching down to further circles, idea leading to idea](https://rezakhosravivala.com/img/essays/mind/03.png)
 
 *memory nodes*
 
@@ -288,7 +288,7 @@ For example the idea of triangle, is an adequate idea because it's not contained
 
 > I will hereafter show, a third kind of knowledge, which we will call intuition. This kind of knowledge proceeds from an adequate idea of the absolute essence of certain attributes of God to the adequate knowledge of the essence of things.
 
-Later on in the page of [knowledge](https://rezakhosravi.com/essays/kinds-of-knowledge/) I explain more on intuition.
+Later on in the page of [knowledge](https://rezakhosravivala.com/essays/kinds-of-knowledge/) I explain more on intuition.
 
 > [2P42](https://ethica.bc.edu/#/element/2P42): Knowledge of the second and third kinds, not knowledge of the first kind, teaches us to distinguish the true from the false.
 
@@ -350,4 +350,4 @@ The true freedom is not in choosing without causes. That is incoherent. The true
 
 We can see how this connects back to the network causality of mind. The system is too interconnected, too sensitive to initial conditions, for any single node to comprehend the whole. Understanding is always partial. But partial understanding, pursued honestly through reason rather than imagination, is the only path toward freedom Spinoza offers, and it is enough.
 
-I'll explain more on [free-will](https://rezakhosravi.com/essays/free-will/) and also more on [knowledge](https://rezakhosravi.com/essays/kinds-of-knowledge/)
+I'll explain more on [free-will](https://rezakhosravivala.com/essays/free-will/) and also more on [knowledge](https://rezakhosravivala.com/essays/kinds-of-knowledge/)

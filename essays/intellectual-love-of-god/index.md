@@ -1,10 +1,10 @@
 # Intellectual Love of God or the Ultimate Freedom
 
 Spinoza's Ethics 5.2 · essay 21 of 21 · by Reza Khosravivala · published 2026-09-12
-Canonical: https://rezakhosravi.com/essays/intellectual-love-of-god/  (this Markdown edition: https://rezakhosravi.com/essays/intellectual-love-of-god/index.md)
+Canonical: https://rezakhosravivala.com/essays/intellectual-love-of-god/  (this Markdown edition: https://rezakhosravivala.com/essays/intellectual-love-of-god/index.md)
 Summary: Freedom through necessity: how understanding the causes of things, up to the third kind of knowledge, is Spinoza's ultimate freedom.
 Topics: Spinoza, Freedom, Amor Dei Intellectualis, Necessity, Blessedness
-Previous: 3.1 Emotion Definitions (https://rezakhosravi.com/essays/emotion-definitions/index.md)
+Previous: 3.1 Emotion Definitions (https://rezakhosravivala.com/essays/emotion-definitions/index.md)
 
 ## Introduction
 

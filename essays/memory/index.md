@@ -1,20 +1,20 @@
 # Memory
 
 Spinoza's Ethics 2.5 · essay 14 of 21 · by Reza Khosravivala · published 2024-06-14 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/memory/  (this Markdown edition: https://rezakhosravi.com/essays/memory/index.md)
+Canonical: https://rezakhosravivala.com/essays/memory/  (this Markdown edition: https://rezakhosravivala.com/essays/memory/index.md)
 Summary: How memory and pattern recognition works and falsy errors
 Topics: Memory, ideas, pattern-recognition, Bias, First-Kind Knowledge, Emotions
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 2.4 Kinds of knowledge, reflection, mind-reality gap (https://rezakhosravi.com/essays/kinds-of-knowledge/index.md)
-Next: 2.6 Mind Errors (https://rezakhosravi.com/essays/errors/index.md)
+Previous: 2.4 Kinds of knowledge, reflection, mind-reality gap (https://rezakhosravivala.com/essays/kinds-of-knowledge/index.md)
+Next: 2.6 Mind Errors (https://rezakhosravivala.com/essays/errors/index.md)
 
-![Scattered coloured dots joined by thin lines into a loose network, like linked memory nodes](https://rezakhosravi.com/img/essays/memory/01.webp)
+![Scattered coloured dots joined by thin lines into a loose network, like linked memory nodes](https://rezakhosravivala.com/img/essays/memory/01.webp)
 
 ## Requirements to know
-- [Universe](https://rezakhosravi.com/essays/universe/)
-- [Causality](https://rezakhosravi.com/essays/causality/)
-- [Mind](https://rezakhosravi.com/essays/mind/)
-- [Emotions](https://rezakhosravi.com/essays/emotions/)
+- [Universe](https://rezakhosravivala.com/essays/universe/)
+- [Causality](https://rezakhosravivala.com/essays/causality/)
+- [Mind](https://rezakhosravivala.com/essays/mind/)
+- [Emotions](https://rezakhosravivala.com/essays/emotions/)
 
 ## What memory is
 
@@ -46,7 +46,7 @@ But if we let's say hate the first called Karen, we would have the same emotion 
 
 This is an accident and classified as the first kind of knowledge, in which that is falsy.
 
-![Two circles labelled Old Karen and New Karen, each marked with a minus, joined by an arrow](https://rezakhosravi.com/img/essays/memory/02.png)
+![Two circles labelled Old Karen and New Karen, each marked with a minus, joined by an arrow](https://rezakhosravivala.com/img/essays/memory/02.png)
 
 *negative/pain affection*
 
@@ -60,7 +60,7 @@ Let's say you have an old friend called Karen which you admire,
   you see someone new who's also called Karen,
   you will regard the new Karen with the feeling of pleasure because it reminds you of your old friend.
 
-![Two circles labelled Old Karen and New Karen, each marked with a plus, joined by an arrow](https://rezakhosravi.com/img/essays/memory/03.png)
+![Two circles labelled Old Karen and New Karen, each marked with a plus, joined by an arrow](https://rezakhosravivala.com/img/essays/memory/03.png)
 
 *positive/pleasure affection*
 
@@ -137,11 +137,11 @@ Also, at the times that mind don't manage to make any connection to the existing
 
 ## (Unconscious or conscious links) and biases
 
-![Side view of a woman with a short layered blonde bob and dark sunglasses](https://rezakhosravi.com/img/essays/memory/04.webp)
+![Side view of a woman with a short layered blonde bob and dark sunglasses](https://rezakhosravivala.com/img/essays/memory/04.webp)
 
 *Karen Haircut!*
 
-![Two person circles each linked down to a hairstyle box, the boxes joined by an arrow marked Hidden Link](https://rezakhosravi.com/img/essays/memory/05.png)
+![Two person circles each linked down to a hairstyle box, the boxes joined by an arrow marked Hidden Link](https://rezakhosravivala.com/img/essays/memory/05.png)
 
 *Hidden memory link*
 

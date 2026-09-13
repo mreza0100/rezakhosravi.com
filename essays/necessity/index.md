@@ -1,12 +1,12 @@
 # Necessity or infinite accuracy
 
 Spinoza's Ethics 1.5 · essay 6 of 21 · by Reza Khosravivala · published 2024-07-21 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/necessity/  (this Markdown edition: https://rezakhosravi.com/essays/necessity/index.md)
+Canonical: https://rezakhosravivala.com/essays/necessity/  (this Markdown edition: https://rezakhosravivala.com/essays/necessity/index.md)
 Summary: How the laws of nature determine that every effect must necessarily follow from its cause
 Topics: Spinoza, Ethics, Perfection, Reality
 Originally on: Medium (https://medium.com/@mrez9090/spinoza-ethics-1-1-necessity-or-infinite-accuracy-c6a500d4232a); mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 1.4 Causality (https://rezakhosravi.com/essays/causality/index.md)
-Next: 1.6 (perfection or reality) or (God’s perfect graphic) (https://rezakhosravi.com/essays/perfection/index.md)
+Previous: 1.4 Causality (https://rezakhosravivala.com/essays/causality/index.md)
+Next: 1.6 (perfection or reality) or (God’s perfect graphic) (https://rezakhosravivala.com/essays/perfection/index.md)
 
 In the last post, we discussed how **causality** works.
 Focusing on the **laws of nature** and how they determine that every effect must necessarily follow from its cause, and how **flexible** they are.
@@ -15,7 +15,7 @@ Focusing on the **laws of nature** and how they determine that every effect must
 
 I want to explain necessity with a simple example.
 
-![Video game sniper scope frame with red labels pointing at the range finder and the bullet drop](https://rezakhosravi.com/img/essays/necessity/01.webp)
+![Video game sniper scope frame with red labels pointing at the range finder and the bullet drop](https://rezakhosravivala.com/img/essays/necessity/01.webp)
 
 *bullet calculation in a video game*
 
@@ -49,7 +49,7 @@ Necessity of cause and effect is the way that Spinoza proved his concept.
 
 Any event/effect in the world has a cause, otherwise, the effect cannot follow from nothing. The event always follows from its cause or causes. Now with that said, if we consider any event in the world, it has causes which made that event happen, those causes had their own causes, which made them happen, and so on back without end. The chain never bottoms out in a first event. So we reach a strict chain of action and reaction, and the only way to change something in it is to change everything that caused it, back further than anyone can trace.
 
-![Diagram branching from a circle marked the beginning of God through nodes A, B and C along a time arrow](https://rezakhosravi.com/img/essays/necessity/02.png)
+![Diagram branching from a circle marked the beginning of God through nodes A, B and C along a time arrow](https://rezakhosravivala.com/img/essays/necessity/02.png)
 
 So we can see how everything is brought to reality, by a cause, so hence it follows nothing happens without a reason, which we call **truth**. This is also the reason truth cannot be **judged**: it’s neither good nor bad.
 
@@ -69,7 +69,7 @@ However, the imagination and action; all followed therefrom, are all products of
 
 > 1972, [Edward Norton Lorenz](https://en.wikipedia.org/wiki/Edward_Norton_Lorenz): He discovered the effect when he observed runs of his weather model with initial condition data that were rounded in a seemingly inconsequential manner. He noted that the weather model would fail to reproduce the results of runs with the unrounded initial condition data. A very small change in initial conditions had created a significantly different outcome
 
-![Toppling line of dominoes winding across a patterned world under a cosmic swirl, a butterfly above](https://rezakhosravi.com/img/essays/necessity/03.webp)
+![Toppling line of dominoes winding across a patterned world under a cosmic swirl, a butterfly above](https://rezakhosravivala.com/img/essays/necessity/03.webp)
 
 Weather is a form of **deterministic** [**chaotic system**](https://en.wikipedia.org/wiki/Butterfly_effect), which means that it is predictable in the short term but not in the long term. Small unpredictable changes completely change what we forecast almost all the time. This happens because of a lack of knowledge, many times inevitable.
 

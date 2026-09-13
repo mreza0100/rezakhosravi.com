@@ -1,14 +1,14 @@
 # Building Blocks
 
 Spinoza's Ethics 1.2 · essay 3 of 21 · by Reza Khosravivala · published 2024-05-17 · updated 2026-09-12
-Canonical: https://rezakhosravi.com/essays/building-blocks/  (this Markdown edition: https://rezakhosravi.com/essays/building-blocks/index.md)
+Canonical: https://rezakhosravivala.com/essays/building-blocks/  (this Markdown edition: https://rezakhosravivala.com/essays/building-blocks/index.md)
 Summary: Spinoza's view on the building blocks of the fundamental elements of the universe
 Topics: Spinoza, Nature, attribute, substance, mode
 Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
-Previous: 1.1 Universe (https://rezakhosravi.com/essays/universe/index.md)
-Next: 1.3 God or nature (causality execution environment) (https://rezakhosravi.com/essays/god-or-nature/index.md)
+Previous: 1.1 Universe (https://rezakhosravivala.com/essays/universe/index.md)
+Next: 1.3 God or nature (causality execution environment) (https://rezakhosravivala.com/essays/god-or-nature/index.md)
 
-![Nested circles, one thick outer circle of substance holding attributes, each attribute holding smaller modes](https://rezakhosravi.com/img/essays/building-blocks/01.png)
+![Nested circles, one thick outer circle of substance holding attributes, each attribute holding smaller modes](https://rezakhosravivala.com/img/essays/building-blocks/01.png)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=leoBccWOZfo)
 
@@ -78,7 +78,7 @@ Nature is absolutely infinite, and it's indivisible, it's one unified field, and
 > [1P3](https://ethica.bc.edu/#/element/1P3) Two substances having different attributes have nothing in common with one another.
 
 Spinoza was looking at physical world and mind environment as 2 different things, and they have nothing in common with each other, an idea in your mind can't be shared with the physical world, and vice versa.
-He explain everything about both environments and how they contribute to the causality of the universe, you can read about [mind](https://rezakhosravi.com/essays/mind/) under life section.
+He explain everything about both environments and how they contribute to the causality of the universe, you can read about [mind](https://rezakhosravivala.com/essays/mind/) under life section.
 
 For more info of this P take a look at [God]({/universe/god/)
 
@@ -124,7 +124,7 @@ So far we know Spinoza defined these building block elements:
 
 Now we will use these building blocks to create a map of reality so we see how it looks like and fit together.
 
-![Boxes and arrows running from God or Nature to the attributes of extension and mind, then to substance and idea](https://rezakhosravi.com/img/essays/building-blocks/02.png)
+![Boxes and arrows running from God or Nature to the attributes of extension and mind, then to substance and idea](https://rezakhosravivala.com/img/essays/building-blocks/02.png)
 
 *spinoza-ethics-map-of-reality*
 
